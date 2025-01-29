@@ -1,0 +1,974 @@
+TC Type,SID,Iodine Dosage,Wilaya,Nodule Count,Vascular Embolism,Cytopuncture,Infected Area Count,Diameter,Discovery Method,Surgery Type,Echography,Family Situation,Sex,LN Dissection,Capsular Invasion,Distant Metastasis,Post-Surgery Status,ATCD,ID,Location, TNM,Muscle Tissue Invasion,Age,LN Metastasis
+classique,001/23,,jijel,,non,,,,DF,TT,TIRADS 4,mariée,F,,oui,non,simples,sans,tfslnikm,droit,pT1b,oui,43.0,non
+classique,002/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,F,,,,,maternel,vhugpdrt,droit,pT1b,,53.0,
+vésiculaire,003/23,,alger,2.0,non,,,10 mm,EC,TT,,mariée,F,,non,non,simples,sans,skkjhijg,droit,,non,48.0,non
+vésiculaire,004/23,,chlef,1.0,non,,,1.4 cm,EC,TT,,mariée,F,,non,non,simples,,spyouhlm,droit,pT2,non,50.0,non
+classique,005/23,,tipaza,1.0,,nodule,,2 cm,EC,TT,TIRADS 4,marié,F,central,,,,sœur,tqkumidy,droit,pT2N1b,,70.0,
+classique,005/23,,biskra,3.0,,gmn,bifocal,1.2 cm,TC,TT,TIRADS 4,mariée,H,récurrentiel,,,,maternel,ppfhzgen,droit,pT1bN1a,,43.0,
+vésiculaire,006/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,F,latéral,,,,sans,rphlnpom,gauche,pT4,,33.0,
+vésiculaire,007/23,,blida,1.0,non,gmn,,3.5 cm,EC,TT,,mariée,F,,non,non,disphonie ,sans,gzaxrwmj,droit,pT2,non,52.0,non
+microcarcinome,008/23,,,2.0,,,,2.5 mm,DF,TT,,mariée,F,,,non,simples,sans,vvnmbluh,droit,,,53.0,non
+classique,008/23,,alger,1.0,,goitre,multifocal,1.9 cm,TC,TT,TIRADS 5,célibataire,F,central,,,,paternel,wgurmtyw,droit,pT1bN1a,,17.0,
+oncocytaire,009/23,,alger,1.0,,nodule,,2.3 cm,EC,TT,TIRADS 5,célibataire,F,sans,,,,maternel,tnxcmnkn,droit,pT2,,24.0,
+vésiculaire,010/23,,bba,1.0,,,,,DF,TT,EUTIRAD5,mariée,F,,,,,sans,orerozry,gauche,pT1b,,37.0,
+vésiculaire,011/23,,skikda,,non,,,04 cm,DF,loboisthemectomie,,mariée,F,,non,non,simples,sans,foczrrwa,droit,,non,33.0,non
+classique,011/23,,,2.0,,,,14 mm,EC,TT,,célibataire,H,oui,,non,simples,,kkpvggon,,pT1bN1,,14.0,oui
+classique,012/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,F,,,,,maternel,tumutryz,droit,pT1b,,53.0,
+vésiculaire,13/23,,msila,2.0,non,,,0.4 cm,DF,TT,,mariée,F,récurrentiel,oui,non,simples,sans,kxqstgnq,gauche,pT1a,non,36.0,oui
+classique,14/23,,setif,2.0,non,,,0.9 cm,DF,TT,EUTIRAD5,mariée,F,,oui,non,simples,,pufuzrsp,droit et gauche,pT1a,non,47.0,non
+vésiculaire,15/23,,annaba,3.0,non,,,03 mm,EC,TT,,célibataire,F,récurrentiel,non,non,simples,,jfhubofw,,pT1aN1a,non,31.0,non
+classique,16/23,,médea,1.0,,,,14 mm,EC,TT,EUTIRAD6,mariée,H,latéral,,non,simples,sans,rzeafkoz,droit,pT1b,,43.0,oui
+classique,17/23,,alger,,non,,,1.7 cm,EC,TT,,mariée,F,sans,non,non,simples,sans,sqlvoztj,gauche,pT1a,non,69.0,non
+classique,18/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,H,sans,,,,maternel,ibbribft,droit,pT1b,,33.0,
+classique,19/23,,sétif,,non,nodule,bifocal,,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,fuptsmvs,gauche,pT2,non,31.0,non
+vésiculaire,20/23,50 mCi,alger,2.0,non,nodule,bifocal,1.8 cm,EC,TT,TIRADS 4,mariée,F,latéral,non,non,simples,sans,fyeiejic,gauche,pT1b,non,51.0,non
+solide,21/23,,blida,,oui,,,1.4 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,diuprkch,droit,pT1b,non,51.0,non
+classique,22/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,F,sans,,,,maternel,gcfkzrkp,droit,pT1b,,33.0,
+,23/23,100 mCi,médea,,non,nodule,bifocal,1.2 cm,DF,TT,TIRADS 4,mariée,F,récurrentiel,non,non,simples,sans,kggrnqbm,droit et gauche,pT1aN1b,non,51.0,oui
+microcarcinome,24/23,,tipaza,,,nodule,,70 mm,EC,TT,TIRADS 5,mariée,H,latéral,,,,sœur,uvmgngwh,droit,pT3,,69.0,
+classique,25/23,,alger,,non,nodule,,1.5 cm,EC,TT,,marié,H,,non,non,simples,,fqameyuf,droit,pT1a,non,55.0,non
+vésiculaire,26/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,hqvlssbd,gauche,pT1a,,44.0,
+classique,27/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,vvytutbp,droit et gauche,pT3,non,43.0,non
+classique,28/23,,rélizane,,,nodule,,1.6 cm,,,,mariée,F,,,,,sans,dbrevgij,,pT1a,,80.0,
+classique,29/23,100 mCi,béjaia,1.0,oui,nodule,,10 mm,EC,TT,TIRADS 5,mariée,F,sans,oui,non,simples,sans,hemvsiih,gauche,pT4,oui,48.0,non
+,30/23,,,,,,,,,,,,F,,,,,,elzushuc,,,,,
+microcarcinome,31/23,,blida,1.0,non,goitre,bifocal,0.3 cm,EC,TT,,mariée,F,sans,non,non,simples,sans,njjhrqsp,droit,pT1a,non,36.0,non
+classique,32/23,,béjaia,,,nodule,,17 mm,EC,TT,TIRADS 5,mariée,F,,,,,sœur,tengqaqp,gauche,pT1b,,41.0,
+microcarcinome,33/23,,tebessa,2.0,non,goitre,,0.7 mm,EC,TT,,célibataire,F,sans,non,non,simples,sans,orbyfkev,gauche,pT1a,non,29.0,non
+oncocytaire,34/23,,alger,2.0,,goitre,,0.9 cm,EC,TT,,mariée,F,,,,,sans,nemnbugx,gauche,pT1a,,65.0,
+classique,35/23,,alger,2.0,non,goitre,bifocal,11 mm,EC,TT,,marié,H,récurrentiel,non,non,simples,sans,fpddcvox,droit et gauche,pT1a,non,39.0,non
+vésiculaire,36/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,H,latéral,,,,sans,anvdfkkb,gauche,pT4,,33.0,
+vésiculaire,37/23,100 mCi,blida,,non,goitre,,1.3 cm,EC,TT,TIRADS 5,mariée,F,récurrentiel,non,non,simples,sans,cxsdgafa,droit,pT1bN1,non,52.0,oui
+classique,38/23,100 mCi,djelfa,1.0,non,nodule,,0.8 cm,DF,TT,TIRADS 5,mariée,F,récurrentiel,oui,non,simples,sans,jxhhjykq,droit,pT1a,non,30.0,non
+,39/23,,annaba,,non,nodule,bifocal,6.5 cm,EC,TT,TIRADS 5,célibataire,F,sans,non,non,simples,sans,kybvzlzh,gauche,pT3,non,47.0,non
+classique,40/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,F,,,,,maternel,udujwnun,droit,pT1b,,53.0,
+microcarcinome,41/23,,alger,3.0,non,nodule,multifocal,7 mm,EC,TT,,mariée,F,sans,non,non,simples,sans,oofaypdg,droit,pT1a,non,47.0,non
+classique,42/23,,alger,2.0,non,goitre,bifocal,3 cm,EC,TT,2,célibataire,F,central,non,non,simples,sans,norwhnwg,droit,pT2N1a,non,50.0,non
+classique,43/23,,alger,,non,gmn,,0.6 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,yahuscwr,gauche,pT1a,non,35.0,non
+oncocytaire,44/23,,médea,,non,nodule,,1.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sans,rzeobesm,,pT1b,non,25.0,non
+microcarcinome,45/23,,tipaza,,non,nodule,,5 mm,EC,TT,,mariée,F,sans,non,non,dysphonie,sans,jjasmwsw,droit,pT1b,oui,52.0,non
+microcarcinome,46/23,,msila,,non,goitre,,0.4 cm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,ivhnmerd,droit,pT1a,non,49.0,non
+oncocytaire,47/23,100 mCi,blida,1.0,non,nodule,,1.2 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,vtnsovyh,droit,pT1b,non,23.0,non
+vésiculaire,48/23,,alger,1.0,non,nodule,multifocal,1.7 cm,EC,TT,TIRADS 5,mariée,H,central,oui,non,simples,sans,mxqgcygl,droit,pT1bN1b,oui,32.0,oui
+oncocytaire,49/23,,bba,1.0,non,nodule,,,EC,TT,TIRADS 4,mariée,H,sans,non,non,simples,sans,xabhgcoy,droit,pT1bN1a,non,40.0,oui
+vésiculaire,50/23,,blida,1.0,non,nodule,,1.6 cm,EC,TT,,mariée,F,sans,non,non,simples,sans,tvzosdip,gauche,pT1b,non,29.0,non
+classique,51/23,,laghouat,,non,gmn,,3.7 cm,EC,TT,TIRADS 5,marié,H,central,oui,non,simples,sans,znzqfotv,gauche,pT2N1a,oui,59.0,oui
+vésiculaire,52/23,,béjaia,,non,gmn,,8 mm,EC,TT,,mariée,F,sans,non,non,simples,sans,uixpyxsg,droit,pT1a,non,62.0,non
+classique,53/23,,médea,,,,,,,,,,F,,,,,,fehohkxk,,pT1,,71.0,
+classique,54/23,,msila,,non,gmn,,,DF,TT,,mariée,F,sans,non,non,simples,sans,hskvuvio,gauche,pT1a,non,60.0,non
+classique,55/23,,béjaia,,non,nodule,,12 mm,EC,TT,,mariée,F,central,non,non,simples,maternel,oclufafh,droit,pT1b,non,54.0,non
+classique,56/23,,alger,,non,nodule,,,EC,TT,,mariée,F,,non,non,simples,sans,qlcmelbk,,pT1b,non,,non
+classique,57/23,,tipaza,3.0,oui,goitre,multifocal,,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,asdzqocu,gauche,,non,24.0,non
+classique,58/23,,tizi ouzou,1.0,oui,nodule,,1.7 cm,DF,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,pxpfvmhn,gauche,pT1b,non,52.0,non
+oncocytaire,59/23,,béjaia,1.0,oui,nodule,bifocal,1.7 cm,EC,TT,TIRADS 5,mariée,F,sans,oui,non,simples,sœur,jiyskjac,gauche,pT1b,non,40.0,non
+microcarcinome,60/23,,alger,1.0,non,gmn,,,EC,TT,,mariée,F,sans,non,non,simples,sans,tbnfxkxv,gauche,pT1a,non,30.0,non
+classique,61/23,,tipaza,1.0,,nodule,,2 cm,EC,TT,TIRADS 4,marié,H,,,,,sœur,pupcosjs,droit,pT2N1b,,70.0,
+classique,62/23,,biskra,3.0,,gmn,bifocal,1.2 cm,TC,TT,TIRADS 4,mariée,F,,,,,maternel,uszdehct,droit,pT1bN1a,,43.0,
+classique,63/23,50 mCi,tizi ouzou,,non,goitre,bifocal,,EC,TT,,célibataire,H,sans,non,non,simples,sans,xpivxpon,,pT1b,non,40.0,non
+microcarcinome,64/23,,médea,,non,gmn,,3 mm,EC,TT,,mariée,F,sans,non,non,simples,sans,eompvqam,gauche,pT1a,non,54.0,non
+oncocytaire,65/23,,bouira,2.0,non,nodule,,1.7 cm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,mhpqbgaj,droit,pT1b,non,44.0,non
+vésiculaire,66/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,jtgmugro,gauche,pT1a,,44.0,
+classique,67/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,ynhbrryf,droit et gauche,pT3,non,43.0,non
+classique,68/23,,médea,,oui,gmn,multifocal,1.5 cm,EC,TT,TIRADS 3,mariée,F,central,non,non,simples,sans,wjamnlfi,droit et gauche,pT1b,oui,63.0,non
+vésiculaire,69/23,100 mCi,ouargla,3.0,non,nodule,,2.5 cm,DF,TT,TIRADS 3,mariée,F,récurrentiel,non,non,simples,sans,tcgshass,droit et gauche,pT2,non,49.0,non
+classique,70/23,,béjaia,1.0,non,nodule,unifocal,1.7 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,xqqyzvwq,droit,pT1N1b,oui,20.0,oui
+vésiculaire,71/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,H,latéral,,,,sans,eddvhedw,gauche,pT4,,33.0,
+classique,72/23,,tebessa,1.0,non,nodule,,1 cm,EC,TT,TIRADS 3,mariée,F,central,non,non,simples,sans,uarbnfxw,gauche,pT1aN1b,non,37.0,oui
+classique,73/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,ksqliyye,droit et gauche,pT3,non,43.0,non
+classique,74/23,,adrar,,non,gmn,multifocal,5 cm,EC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,zeowrqmy,droit et gauche,pT3N1b,oui,44.0,oui
+vésiculaire,75/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,F,latéral,,,,sans,osxrcnxa,gauche,pT4,,33.0,
+classique,76/23,,médea,,non,goitre,multifocal,1 cm,EC,TT,,mariée,F,central,non,non,simples,sans,hojpzulw,droit et gauche,pT1a,non,42.0,non
+solide,77/23,,blida,,,gmn,,1.3 cm,DF,TT,TIRADS 5,mariée,F,,,,,sans,rxhtrlra,isthme,pT1b,,49.0,
+vésiculaire,78/23,,alger,2.0,oui,nodule,bifocal,3 cm,EC,TT,TIRADS 4,mariée,F,central,oui,non,simples,sans,bivoktax,,pT2N1b,non,35.0,oui
+solide,79/23,,alger,,,gmn,,1.3 cm,DF,TT,TIRADS 5,mariée,H,,,,,sans,pzaaawgc,isthme,pT1b,,43.0,
+vésiculaire,80/23,,alger,1.0,oui,nodule,unifocal,1.5 cm,EC,TT,TIRADS 4,célibataire,F,récurrentiel,non,non,simples,sans,irmopbug,droit,pT1bN1b,non,23.0,oui
+microcarcinome,81/23,,alger,,oui,nodule,bifocal,1 cm,EC,TT,,mariée,F,sans,non,non,simples,paternel,latvjfsj,droit et gauche,pT1a,non,30.0,non
+,82/23,,,,,,,,,,,,F,,,,,,obzhkmjz,,,,,
+vésiculaire,84/23,100 mCi,guelma,,oui,gmn,,1.5 cm,DF,TT,TIRADS 3,mariée,F,sans,non,non,diplégie,maternel,pmepvozu,gauche,pT1b,non,47.0,non
+classique,85/23,,alger,3.0,non,nodule,,0.7 cm,EC,TT,,mariée,F,central,non,non,simples,maternel,rcraryrd,gauche,pT1a,non,30.0,non
+classique,86/23,,alger,1.0,non,nodule,,6.5 cm,EC,TT,TIRADS 5,célibataire,F,sans,non,non,dysphonie,maternel,ojkurgve,,pT3,non,25.0,non
+,87/23,,,,,,,,,,,,F,,,,,,byegiaij,,,,,
+vésiculaire,88/23,100 mCi,médea,1.0,oui,goitre,,4.5 cm,EC,TT,,mariée,F,sans,oui,non,simples,sans,kyteweyh,droit,pT3,non,39.0,non
+classique,89/23,,ain defla,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,lwacuqxw,gauche,pT3a,non,35.0,non
+classique,90/23,,alger,1.0,non,nodule,,1.4 cm,EC,TT,,mariée,F,central,non,non,simples,maternel,hcocaamw,droit,pT1b,non,37.0,oui
+classique,91/23,,béjaia,3.0,,gmn,multifocal,1.5 cm,EC,TT,TIRADS 5,mariée,F,sans,,,,sans,awwmctiy,gauche,pT1b,,38.0,
+classique,92/23,,oran,4.0,,gmn,multifocal,1.2 cm,TC,TT,TIRADS 4,mariée,F,sans,,,,sœur,lmeflwnk,droit et gauche,pT1b,,34.0,
+microcarcinome,93/23,,bba,1.0,non,goitre,,3 mm,TC,TT,TIRADS 4,mariée,F,sans,oui,non,simples,sans,zqbbbuac,droit,pT1a,non,45.0,non
+microcarcinome,94/23,,médea,3.0,non,nodule,,0.3 cm,TC,TT,,mariée,F,sans,non,non,simples,sans,zaldcswx,isthme,pT1a,non,56.0,non
+vésiculaire,96/23,,tizi ouzou,,oui,goitre,unifocal,3.5 cm,EC,TT,,mariée,F,central,oui,non,dysphonie,sans,ynniwrbs,droit,pT3N1a,non,40.0,oui
+vésiculaire,98/23,,alger,2.0,non,goitre,,2 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,bkpnruwo,droit,pT1b,non,30.0,non
+classique,97/23,,alger,1.0,,nodule,,1.5 cm,EC,TT,,mariée,F,sans,,,,maternel,jqlgoyln,droit,pT1b,,33.0,
+oncocytaire,98/23,100 mCi,alger,1.0,non,nodule,unifocal,2.3 cm,EC,TT,TIRADS 5,célibataire,F,sans,non,non,simples,maternel,xsibaslk,droit,pT2,oui,24.0,non
+classique,99/23,,alger,2.0,non,gmn,bifocal,1.2 cm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,fcmoumdo,droit et gauche,pT1b,non,45.0,non
+classique,100/23,,bba,,oui,,,1.5 cm,DF,TT,,célibataire,H,récurrentiel,non,non,simples,sans,xtjsacvp,,pT1bN1a,non,32.0,oui
+classique,101/23,,bouira,1.0,,gmn,,1.5 cm,TC,TT,TIRADS 4,mariée,F,sans,,,,sans,zmwqcbrj,droit,pT1b,,60.0,
+classique + microcarcinome,103/23,,béjaia,3.0,,gmn,multifocal,1.5 cm,EC,TT,TIRADS 5,mariée,F,sans,,,,sans,unllfnya,gauche,pT1b,,38.0,
+classique,104/23,,oran,4.0,,gmn,multifocal,1.2 cm,TC,TT,TIRADS 4,mariée,F,sans,,,,sœur,qnjshbfz,droit et gauche,pT1b,,34.0,
+classique,105/23,,bouira,2.0,,goitre,,3 cm,EC,TT,TIRADS 4,mariée,F,central,,,,sans,udvfhhyo,droit,pT2N1a,,38.0,
+microcarcinome,107/23,,blida,1.0,non,nodule,,0.9 cm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,tvlmjmtb,gauche,pT1a,non,42.0,non
+microcarcinome,108/23,,béjaia,,non,gmn,multifocal,0.6 cm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,wuowcpyr,droit et gauche,pT1a,non,40.0,non
+classique,111/23,,oran,4.0,,gmn,multifocal,1.2 cm,TC,TT,TIRADS 4,mariée,H,sans,,,,sœur,tabfvhzt,droit et gauche,pT1b,,34.0,
+classique,112/23,,bouira,2.0,,goitre,,3 cm,EC,TT,TIRADS 4,mariée,F,central,,,,sans,esxpxkci,droit,pT2N1a,,38.0,
+warthin like,113/23,,alger,,non,gmn,,1.3 cm,EC,TT,TIRADS 5,mariée,F,récurrentiel,non,non,simples,sans,lcduckjn,droit,pT1b,non,44.0,non
+vésiculaire,114/23,,médea,,non,hyperplasie nodulaire,,,DF,TT,,mariée,F,sans,non,non,simples,sans,drdbuqsq,,pT1a,non,62.0,non
+vésiculaire,115/23,,souk ahras,2.0,non,nodule,bifocal,2.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,jxgvsncf,gauche,pT2N1a,non,49.0,oui
+vésiculaire,116/23,,alger,1.0,non,goitre,unifocal,0.3 cm,DF,TT,TIRADS 5,célibataire,F,sans,non,non,simples,sans,sfzmoanu,droit,pT1a,non,44.0,non
+,117/23,,,,,,,,,,,,F,,,,,,oxzdheca,,,,,
+classique,117/23,,alger,1.0,oui,nodule,bifocal,2 cm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,paternel,oxqicaeq,droit,pT1b,non,23.0,oui
+classique,118/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,dgqbfbsk,droit et gauche,pT3,non,43.0,non
+classique,119/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,jhcqowmn,droit et gauche,pT3,non,33.0,non
+classique,119/23,,bouira,1.0,oui,nodule,,2 cm,EC,TT,TIRADS 5,marié,H,central,oui,non,simples,sans,jckfadkr,droit,pT1bN1a,oui,43.0,oui
+microcarcinome,120/23,,bba,,,,,,,,,mariée,F,,,,,sans,jgovlcfy,,,,40.0,
+vésiculaire,121/23,,tizi ouzou,,oui,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,F,sans,oui,non,simples,sans,bocnjyyk,droit,pT1b,oui,43.0,non
+classique,122/23,100 mCi,bouira,,oui,gmn,unifocal,5 cm,TC,TT,TIRADS 5,mariée,F,central,oui,non,simples,sans,cchwvwfx,gauche,pT3aN1a,non,72.0,oui
+classique,123/23,100 mCi,bba,1.0,non,goitre,,1.1 cm,TC,TT,TIRADS 4,mariée,F,récurrentiel,non,non,simples,sans,gzlcmshs,gauche,pT1bN1b,non,39.0,oui
+classique,124/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,shkpysdb,droit et gauche,pT3,non,33.0,non
+classique,124/23,,alger,1.0,non,nodule,,5.8 cm,TC,TT,TIRADS 5,célibataire,H,central,non,non,simples,maternel,yvqbrgfo,gauche,pT3,non,30.0,non
+classique,125/23,,médea,,non,goitre,,0.5 cm,TC,TT,,mariée,F,sans,non,non,simples,sans,wloyvxbz,,pT1a,non,36.0,non
+classique,126/23,,djelfa,1.0,non,nodule,,0.9 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,kmoiurmb,droit,pT1a,non,46.0,non
+vésiculaire,127/23,,médea,,non,gmn,,0.7 cm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,cblfmjdc,isthme,pT1a,non,72.0,non
+classique,127/23,,alger,,non,nodule,bifocal,1.5 cm,EC,TT,TIRADS 5,marié,H,central,non,non,simples,sans,nyuggtze,droit et gauche,pT1bN1a,oui,53.0,oui
+solide,128/23,,blida,3.0,non,gmn,,2.5 cm,EC,TT,TIRADS 5,célibataire,F,sans,non,non,simples,sans,teaxfpzi,droit et gauche,pT2,non,49.0,non
+vésiculaire,128/23,,médea,,,goitre,,7.5 cm,TC,TT,,veuve,F,sans,,,simples,sans,afqdxywz,droit,NIFT-P,,88.0,
+vésiculaire,129/23,,tipaza,,non,nodule,,0.4 cm,EC,TT,TIRADS 4,mariée,F,récurrentiel,non,non,simples,sans,ulugxioz,droit,pT1a,non,36.0,non
+vésiculaire,129/23,,tebessa,,,gmn,bifocal,1.5 cm,EC,TT,TIRADS 5,mariée,F,,,,,sans,peuuczfp,gauche,pT1b,,51.0,
+classique,130/23,50 mCi,djelfa,1.0,non,nodule,,1.4 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,abzsseqa,gauche,pT1b,non,30.0,non
+classique,131/23,,alger,,,goitre,,,EC,TT,,célibataire,F,sans,,,,sans,witozndf,droit,pT2,,54.0,
+classique,132/23,,alger,,,gmn,,2 cm,EC,TT,TIRADS 3,mariée,F,sans,,,,sans,pmqersfi,gauche,pT1b,,51.0,
+classique,132/23,,alger,,non,goitre,,,TC,TT,,mariée,F,central,oui,non,simples,sans,ltwkueli,,pT3aN1a,oui,51.0,oui
+classique,133/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,igiijbft,droit et gauche,pT3,non,33.0,non
+classique,133/23,,ghardaia,,non,goitre,multifocal,1.3 cm,DF,TT,,mariée,F,sans,non,non,simples,maternel,hvrwuwoy,gauche,pT1b,non,31.0,non
+classique,134/23,,blida,1.0,non,nodule,bifocal,2 cm,DF,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,otnnbeiz,gauche,pT2,oui,30.0,non
+classique,135/23,,alger,,,goitre,,,EC,TT,,célibataire,F,sans,,,,sans,nrekhyih,droit,pT2,,54.0,
+classique,136/23,,alger,,,gmn,,2 cm,EC,TT,TIRADS 3,mariée,F,sans,,,,sans,klyskwfv,gauche,pT1b,,51.0,
+classique,136/23,,ain defla,1.0,non,gmn,,1 cm,EC,TT,,mariée,F,sans,non,non,simples,sans,mtyugmdp,droit,pT1a,non,43.0,non
+classique,137/23,,alger,,,goitre,,,EC,TT,,célibataire,F,sans,,,,sans,kspjbibi,droit,pT2,,54.0,
+classique,138/23,,alger,,,gmn,,2 cm,EC,TT,TIRADS 3,mariée,F,sans,,,,sans,djlciwnp,gauche,pT1b,,51.0,
+classique,138/23,,alger,2.0,non,goitre,bifocal,1.8 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,ukzlmisq,droit et gauche,pT1b,non,30.0,non
+microcarcinome,138/23,55 mCi,alger,2.0,non,goitre,bifocal,1 cm,EC,TT,,célibataire,H,sans,non,non,simples,sans,jzayevty,droit et gauche,pT1a,non,29.0,non
+classique,139/23,,alger,,,goitre,,,EC,TT,,célibataire,H,sans,,,,sans,ayfunxgu,droit,pT2,,54.0,
+classique,140/23,,alger,,,gmn,,2 cm,EC,TT,TIRADS 3,mariée,F,sans,,,,sans,ifylvsyu,gauche,pT1b,,51.0,
+,140/23,,médea,,,,,,,,,,F,,,,,,yhvzcucq,,,,51.0,
+classique,141/23,,alger,,,goitre,,,EC,TT,,célibataire,F,sans,,,,sans,awwzuspt,droit,pT2,,54.0,
+classique,142/23,,alger,,,gmn,,2 cm,EC,TT,TIRADS 3,mariée,F,sans,,,,sans,chqmrcmn,gauche,pT1b,,51.0,
+microcarcinome,142/23,,bba,,non,nodule,,0.5 cm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,quxhgkye,,pT1a,non,36.0,non
+,143/23,,alger,1.0,,nodule,,,EC,,TIRADS 5,mariée,H,,,,,sans,rsbcnesi,gauche,pT1a,,52.0,
+vésiculaire,143/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,akstdqha,gauche,pT1a,,44.0,
+classique,145/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,kgaieudj,droit et gauche,pT3,non,43.0,non
+microcarcinome,146/23,,alger,1.0,non,gmn,,9 mm,TC,TT,,mariée,F,central,non,non,simples,sans,hnufeqjv,droit,pT1a,non,53.0,oui
+classique,147/23,,boumerdas,1.0,non,nodule,,,EC,TT,,mariée,F,central,non,non,simples,sans,nfxgihar,droit,pT1bN1a,non,46.0,oui
+microcarcinome,148/23,,tipaza,1.0,,goitre,,3 mm,EC,loboisthemectomie,,mariée,F,,,,,sans,awtbjtkh,,pT1a,,28.0,
+classique,148/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,ctmbiucu,droit et gauche,pT3,non,33.0,non
+classique,148/23,,sétif,,non,goitre,,1 cm,DF,TT,,mariée,F,sans,non,non,simples,sans,khhphsje,,pT1b,non,43.0,non
+classique,149/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,eqekboiu,droit et gauche,pT3,non,33.0,non
+vésiculaire,150/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,ttvnqnem,gauche,pT1a,,44.0,
+classique,151/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,sldicmwu,droit et gauche,pT3,non,43.0,non
+classique,152/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,bcjahehn,droit et gauche,pT3,non,33.0,non
+,153/23,,alger,1.0,,nodule,,,EC,,TIRADS 5,mariée,F,,,,,sans,zgmtnyux,gauche,pT1a,,46.0,
+vésiculaire,154/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,yhorhczk,gauche,pT1a,,44.0,
+classique,155/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,yabzricr,droit et gauche,pT3,non,43.0,non
+microcarcinome,156/23,,alger,1.0,non,gmn,,9 mm,TC,TT,,mariée,F,central,non,non,simples,sans,chenqhpd,droit,pT1a,non,53.0,oui
+classique,157/23,,boumerdas,1.0,non,nodule,,,EC,TT,,mariée,F,central,non,non,simples,sans,rfecmxap,droit,pT1bN1a,non,46.0,oui
+microcarcinome,158/23,,tipaza,1.0,,goitre,,3 mm,EC,loboisthemectomie,,mariée,F,,,,,sans,cjwfecdn,,pT1a,,28.0,
+,159/23,,,,,,,,,,,,F,,,,,,nglfaeex,,,,,
+classique,160/23,,sétif,,non,goitre,,1 cm,DF,TT,,mariée,F,sans,non,non,simples,sans,jwvvslcn,,pT1b,non,43.0,non
+,161/23,,,,,,,,,,,,F,,,,,,ndpmftdn,,,,,
+vésiculaire,162/23,,médea,1.0,,nodule,,7 mm,,,,mariée,F,,,,,sans,ucdvyysd,gauche,pT1a,,44.0,
+classique,163/23,,alger,3.0,non,nodule,bifocal,4.5 cm,EC,TT,,mariée,F,sans,non,non,simples,sœur,azquikun,droit et gauche,pT3,non,43.0,non
+microcarcinome,164/23,,annaba,3.0,non,goitre,,0.5 cm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,ehswrgtd,droit et gauche,pT1a,non,42.0,non
+classique,165/23,100 mCi,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,DF,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,lrwcymmg,droit,pT1N1,non,32.0,oui
+classique,166/23,100 mCi,boumerdas,,non,gmn,multifocal,5 cm,EC,TT,TIRADS ,marié,F,sans,non,non,simples,sans,rknexwje,droit et gauche,pT3a,non,46.0,non
+oncocytaire,167/23,100 mCi,alger,7.0,oui,gmn,bifocal,0.7 cm,EC,TT,TIRADS 5,mariée,F,récurrentiel,oui,non,simples,sans,jbcpygbw,droit et gauche,pT1aN1a,non,56.0,oui
+vésiculaire,168/23,100 mCi,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,kufnrbgv,droit,pT2,non,53.0,non
+oncocytaire,169/23,100 mCi,tizi ouzou,4.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,uwmegpel,droit et gauche,pT1b,non,65.0,non
+classique,170/23,100 mCi,msila,1.0,non,nodule,unifocal,1.8 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,fsskjbks,droit,pT3b,non,50.0,non
+vésiculaire,171/23,100 mCi,bouira,1.0,non,nodule,unifocal,1.7 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,maternel,qriswhem,gauche,pT3b,oui,48.0,non
+classique,172/23,100 mCi,msila,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,visbojox,droit,pT1bN1b,non,58.0,oui
+classique,173/23,100 mCi,alger,2.0,non,nodule,multifocal,4.4 cm,TC,TT,TIRADS 3,mariée,F,récurrentiel,non,non,simples,sans,tydirnpg,droit et gauche,pT3aN1,non,59.0,oui
+oncocytaire,174/23,100 mCi,tizi ouzou,,non,gmn,unifocal,2.9 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,maternel,disxootd,gauche,pT2,non,40.0,non
+classique,175/23,100 mCi,bouira,3.0,non,nodule,multifocal,0.6 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sœur,witozndf,droit et gauche,pT1aN1a,non,57.0,oui
+classique,176/23,100 mCi,souk ahras,3.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 6,célibataire,F,latéral,non,non,simples,maternel,lbsmqlsy,droit,pT2N1b,non,32.0,non
+classique,177/23,100 mCi,béjaia,1.0,non,nodule,unifocal,0.9 mm,TC,TT,TIRADS 5,mariée,F,central,oui,non,simples,paternel,ffoutprl,gauche,pT1bN1a,non,46.0,oui
+vésiculaire,178/23,100 mCi,sétif,1.0,non,nodule,bifocal,1 cm,TC,TT,TIRADS 3,célibataire,F,central,non,non,simples,sans,pkfluvqy,droit,pT1aN1b,non,37.0,non
+microcarcinome,179/23,50 mCi,tipaza,1.0,oui,nodule,unifocal,9 mm,ADP,TT,TIRADS 5,célibataire,F,sans,non,non,simples,sans,nrekhyih,droit,pT1aN1b,non,24.0,oui
+vésiculaire,180/23,100 mCi,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,TT,TIRADS 5,marié,F,sans,non,non,simples,sœur,klyskwfv,gauche,pT2,non,46.0,non
+classique,179/23,100 mCi,alger,1.0,non,goitre,,1.5 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,kspjbibi,droit et gauche,pT1b,non,44.0,non
+vésiculaire,180/23,100 mCi,bouira,1.0,oui,gmn,unifocal,5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sœur,djlciwnp,droit,pT3,non,76.0,non
+vésiculaire,181/23,50 mCi,bouira,1.0,non,nodule,unifocal,15 mm,EC,TT,TIRADS 4,mariée,H,sans,non,non,simples,sans,muzzfghv,gauche,pT1b,non,57.0,non
+vésiculaire,182/23,100 mCi,ain defla,,non,gmn,unifocal,2 cm,TC,TT,TIRADS 4,mariée,F,sans,oui,non,simples,sans,ifylvsyu,isthme,pT1b,non,40.0,non
+classique,183/23,50 mCi,alger,,non,nodule,,2.8 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,awwzuspt,droit,pT2,non,48.0,non
+classique,184/23,100 mCi,médea,2.0,non,nodule,unifocal,1 cm,DF,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,chqmrcmn,gauche,pT1bN1,non,35.0,oui
+vésiculaire,185/23,100 mCi,sétif,,non,gmn,,,EC,TT,TIRADS 6,marié,H,sans,non,oui,simples,sans,rsbcnesi,,,non,77.0,oui
+classique,186/23,100 mCi,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,TT,TIRADS 4,marié,F,sans,non,non,simples,maternel,lgbxucsa,droit,pT3a,non,53.0,non
+classique,187/23,100 mCi,tizi ouzou,3.0,oui,gmn,multifocal,4 cm,EC,TT,TIRADS 6,marié,F,sans,oui,non,simples,sœur,kgaieudj,droit et gauche,pT4a,oui,53.0,non
+oncocytaire,188/23,100 mCi,alger,1.0,non,nodule,unifocal,52 mm,DF,TT,TIRADS 5,marié,F,central,non,non,simples,sans,hnufeqjv,droit,pT3bN1a,non,49.0,non
+vésiculaire,189/23,100 mCi,alger,3.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,arebwmqv,droit et gauche,pT2N1bM1,non,46.0,oui
+vésiculaire,190/23,100 mCi,annaba,2.0,non,nodule,bifocal,25 mm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,awtbjtkh,droit et isthme,pT1a,non,27.0,non
+classique,191/23,100 mCi,blida,2.0,non,nodule,,1 cm,DF,TT,TIRADS 4,mariée,F,sans,non,non,simples,paternel,ctmbiucu,droit,pT1aN1,non,48.0,oui
+microcarcinome,192/23,100 mCi,alger,2.0,non,nodule,bifocal,9 mm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,paternel,khhphsje,droit et gauche,pT1aN1a,non,42.0,oui
+classique,193/23,100 mCi,ghardia,2.0,non,goitre,,1 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,eqekboiu,droit,pT1bN1b,non,28.0,oui
+classique,194/23,100 mCi,alger,1.0,non,nodule,unifocal,1.7 cm,DF,TT,TIRADS 4,mariée,F,récurrentiel,non,non,simples,sans,ttvnqnem,gauche,pT1bN1,non,59.0,oui
+whartin like,195/23,100 mCi,batna,1.0,oui,nodule,,1.5 cm,DF,TT,TIRADS 5 ,mariée,F,central,non,non,simples,frère,cmptexxf,gauche,pT1bN1b,non,39.0,oui
+vésiculaire,196/23,100 mCi,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,TT,TIRADS 3,mariée,F,sans,non,oui,simples,paternel,oodytkbt,gauche,pT1a,non,29.0,non
+vésiculaire,197/23,100 mCi,alger,3.0,non,gmn,,15 mm,TC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,tuiagemn,droit,pT2,non,42.0,non
+classique,198/23,100 mCi,ghardia,2.0,non,nodule,,1.8 cm,TC,TT,TIRADS 3,célibataire,F,récurrentiel,non,non,simples,sans,ljgcdkrp,droit,pT1bN1b,non,32.0,oui
+classique,199/23,,msila,2.0,non,nodule,,0.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,ovbllowc,isthme,pT1aN1,non,48.0,oui
+vésiculaire,200/23,100 mCi,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,ksevbenq,droit et gauche,pT2a,non,45.0,non
+vésiculaire,201/23,,djelfa,1.0,non,nodule,,1.5 cm,ADP,TT,TIRADS 5,marié,F,sans,non,oui,simples,sans,cpzybwqz,droit,pT3,non,48.0,non
+classique,202/23,100 mCi,msila,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,mfwxydho,droit,pT1b,non,38.0,non
+vésiculaire,203/23,100 mCi,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,zuvcwxzo,droit,pT3a,non,64.0,non
+solide,204/23,150 mCi,bouira,1.0,non,nodule,,8 cm,TC,TT,TIRADS 4,marié,F,sans,non,oui,simples,decendant,lpubflpy,droit,pT3a,non,74.0,non
+classique,205/23,100 mCi,médea,3.0,non,goitre,,13 mm,EC,TT,TIRADS 5,marié,F,central,oui,non,simples,paternel,xjjrshfk,droit,pT1b,non,40.0,non
+classique,206/23,100 mCi,béjaia,1.0,non,goitre,,45 mm,EC,TT,TIRADS 5,mariée,F,latéral,oui,non,simples,sans,wggzgype,droit,pT2,oui,44.0,non
+classique,207/23,100 mCi,médea,,oui,goitre,unifocal,17 mm,TC,TT,TIRADS 5,mariée,H,central,non,non,simples,maternel,qxjsgcif,droit,pT1bN1b,oui,30.0,oui
+classique,208/23,100 mCi,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,mwxhnfbl,droit,pT1aN1b,non,37.0,non
+microcarcinome,209/23,50 mCi,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,paternel,qxdopfyd,droit et gauche,pT1a,non,40.0,non
+vésiculaire,210/23,90 mCi,tizi ouzou,,non,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,H,bilatéral,non,non,simples,maternel,kypcucjf,droit,pT1b,non,15.0,non
+classique,211/23,100 mCi,blida,2.0,non,nodule,bifocal,8.3 mm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,xwkxeuiy,droit,pT2,non,35.0,non
+vésiculaire,212/23,100 mCi,béjaia,4.0,non,gmn,,1.2 cm,TC,TT,TIRADS 4,célibataire,H,central,non,non,simples,sans,cemsiovk,droit et gauche,pT3bN1,non,20.0,non
+classique,213/23,100 mCi,bba,1.0,non,nodule,,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,iljftvve,droit,pT1bN1b,non,46.0,oui
+vésiculaire,214/23,100 mCi,ourgla,,oui,gmn,,25 mm,EC,TT,TIRADS 5,veuve,H,sans,non,oui,simples,sans,ksqqbpaf,droit,pT2NxM1,oui,73.0,oui
+vésiculaire,215/23,100 mCi,alger,1.0,oui,nodule,,9.8 mm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,fhcffcpz,droit,pT1a,non,22.0,non
+microcarcinome,216/23,100 mCi,alger,1.0,non,nodule,,7 mm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,rurkwjoh,droit,pT1aN1a,non,35.0,oui
+vésiculaire,217/23,100 mCi,alger,1.0,oui,nodule,,12 mm,TC,TT,TIRADS 5,célibataire,F,sans,oui,non,simples,sœur,pwaorcxi,gauche,pT1b,non,28.0,non
+vésiculaire,218/23,100 mCi,tizi ouzou,1.0,oui,nodule,,1.5 cm,DF,TT,TIRADS 5,marié,H,sans,oui,non,simples,maternel,bhixxgrk,droit,pT1bN1b,non,54.0,oui
+classique,219/23,100 mCi,alger,3.0,non,gmn,unifocal,3 cm,TC,TT,TIRADS 4,marié,F,central,non,non,simples,maternel,bkjdexiz,droit et isthme,pT2N1a,non,36.0,non
+vésiculaire,220/23,100 mCi,alger,,oui,nodule,multifocal,17 mm,TC,TT,TIRADS 5,marié,F,central,non,non,simples,sans,cybnqgfh,droit,pT1bN1b,non,27.0,oui
+classique,221/23,50 mCi,alger,1.0,non,nodule,,1.2 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,maternel,erblwmor,gauche,pT1b,non,34.0,non
+microcarcinome,222/23,50 mCi,alger,,non,gmn,bifocal,15 mm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,qztqgihj,gauche,pT1b,non,42.0,non
+classique,223/23,100 mCi,tiaret,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,célibataire,F,sans,non,non,simples,paternel,mgdzdxyj,gauche,pT1b,non,25.0,non
+classique,224/23,100 mCi,alger,1.0,non,gmn,bifocal,1.5 cm,EC,TT,TIRADS 5,mariée,F,central,non,non,simples,paternel,bvkdwsbq,droit et isthme,pT1aN1a,non,31.0,non
+classique,225/23,100 mCi,médea,,non,nodule,,0.9 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,maternel,wnyaablj,gauche,pT1aN1b,non,33.0,non
+vésiculaire,226/23,100 mCi,béjaia,,non,nodule,,5 cm,EC,TT,TIRADS 5,mariée,F,sans,oui,non,simples,sans,zhefxamk,droit,pT1b,non,31.0,non
+classique,227/23,100 mCi,tizi ouzou,,oui,gmn,,1.5 cm,TC,TT,TIRADS 5,célibataire,F,sans,non,non,simples,maternel,xskmhnit,droit,pT1b,non,33.0,non
+microcarcinome,228/23,100 mCi,béjaia,2.0,non,gmn,multifocal,8 mm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,maternel,gihedjpg,droit et gauche,pT1a,non,40.0,non
+vésiculaire,229/23,100 mCi,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,TT,TIRADS 3,mariée,F,sans,non,oui,simples,paternel,uylcokqe,gauche,pT1a,non,29.0,non
+vésiculaire,230/23,100 mCi,alger,3.0,non,gmn,,15 mm,TC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,ealcyark,droit,pT2,non,42.0,non
+classique,231/23,100 mCi,ghardia,2.0,non,nodule,,1.8 cm,TC,TT,TIRADS 3,célibataire,F,récurrentiel,non,non,simples,sans,anwyggjf,droit,pT1bN1b,non,32.0,oui
+classique,232/23,,msila,2.0,non,nodule,,0.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,ugdqupdz,isthme,pT1aN1,non,48.0,oui
+vésiculaire,233/23,100 mCi,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,TT,TIRADS 5,marié,H,sans,non,non,simples,sans,frouathk,droit et gauche,pT2a,non,45.0,non
+vésiculaire,234/23,,djelfa,1.0,non,nodule,,1.5 cm,ADP,TT,TIRADS 5,marié,H,sans,non,oui,simples,sans,bfsisyvg,droit,pT3,non,48.0,non
+classique,235/23,100 mCi,msila,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,mxnyuyih,droit,pT1b,non,38.0,non
+vésiculaire,236/23,100 mCi,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,ndwqxuta,droit,pT3a,non,64.0,non
+solide,237/23,150 mCi,bouira,1.0,non,nodule,,8 cm,TC,TT,TIRADS 4,marié,F,sans,non,oui,simples,decendant,xqeouimq,droit,pT3a,non,74.0,non
+classique,238/23,100 mCi,médea,3.0,non,goitre,,13 mm,EC,TT,TIRADS 5,marié,F,central,oui,non,simples,paternel,wmflhwoq,droit,pT1b,non,40.0,non
+classique,239/23,100 mCi,béjaia,1.0,non,goitre,,45 mm,EC,TT,TIRADS 5,mariée,F,latéral,oui,non,simples,sans,zntubzus,droit,pT2,oui,44.0,non
+classique,240/23,100 mCi,médea,,oui,goitre,unifocal,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,maternel,kblwoykh,droit,pT1bN1b,oui,30.0,oui
+classique,241/23,100 mCi,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,TT,TIRADS 5,mariée,H,central,non,non,simples,sans,nrlrsckm,droit,pT1aN1b,non,37.0,non
+microcarcinome,242/23,50 mCi,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,paternel,vkdviazf,droit et gauche,pT1a,non,40.0,non
+vésiculaire,242/23,90 mCi,tizi ouzou,,non,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,F,bilatéral,non,non,simples,maternel,xzqmoamg,droit,pT1b,non,15.0,non
+classique,243/23,100 mCi,blida,2.0,non,nodule,bifocal,8.3 mm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,ljqzxzyk,droit,pT2,non,35.0,non
+vésiculaire,244/23,100 mCi,béjaia,4.0,non,gmn,,1.2 cm,TC,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,uskeozbg,droit et gauche,pT3bN1,non,20.0,non
+classique,245/23,100 mCi,bba,1.0,non,nodule,,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,yqnfujdu,droit,pT1bN1b,non,46.0,oui
+vésiculaire,246/23,100 mCi,ourgla,,oui,gmn,,25 mm,EC,TT,TIRADS 5,veuve,F,sans,non,oui,simples,sans,uqnodaza,droit,pT2NxM1,oui,73.0,oui
+vésiculaire,247/23,100 mCi,alger,1.0,oui,nodule,,9.8 mm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,foeaoihl,droit,pT1a,non,22.0,non
+vésiculaire,248/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,F,latéral,,,simples,sans,liblbtih,gauche,pT4,,33.0,
+vésiculaire,249/23,100 mCi,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,TT,TIRADS 3,mariée,F,sans,non,oui,simples,paternel,mpzirtzi,gauche,pT1a,non,29.0,non
+vésiculaire,250/23,100 mCi,alger,3.0,non,gmn,,15 mm,TC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,ibvbjpef,droit,pT2,non,42.0,non
+classique,251/23,100 mCi,ghardia,2.0,non,nodule,,1.8 cm,TC,TT,TIRADS 3,célibataire,F,récurrentiel,non,non,simples,sans,dwqhdtqs,droit,pT1bN1b,non,32.0,oui
+classique,252/23,,msila,2.0,non,nodule,,0.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,smnozjow,isthme,pT1aN1,non,48.0,oui
+vésiculaire,253/23,100 mCi,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,nvdmyunn,droit et gauche,pT2a,non,45.0,non
+vésiculaire,254/23,,djelfa,1.0,non,nodule,,1.5 cm,ADP,TT,TIRADS 5,marié,F,sans,non,oui,simples,sans,htglllhf,droit,pT3,non,48.0,non
+classique,255/23,100 mCi,msila,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,shwizfjz,droit,pT1b,non,38.0,non
+vésiculaire,256/23,100 mCi,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,bxslxqoq,droit,pT3a,non,64.0,non
+solide,257/23,150 mCi,bouira,1.0,non,nodule,,8 cm,TC,TT,TIRADS 4,marié,F,sans,non,oui,simples,decendant,tuugwwqm,droit,pT3a,non,74.0,non
+classique,258/23,100 mCi,médea,3.0,non,goitre,,13 mm,EC,TT,TIRADS 5,marié,F,central,oui,non,simples,paternel,awvguhyn,droit,pT1b,non,40.0,non
+classique,258/23,100 mCi,béjaia,1.0,non,goitre,,45 mm,EC,TT,TIRADS 5,mariée,H,latéral,oui,non,simples,sans,rvrkjwjs,droit,pT2,oui,44.0,non
+classique,259/23,100 mCi,médea,,oui,goitre,unifocal,17 mm,TC,TT,TIRADS 5,mariée,,central,non,non,simples,maternel,tengqaqp,droit,pT1bN1b,oui,30.0,oui
+classique,260/23,100 mCi,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,kzvoubja,droit,pT1aN1b,non,37.0,non
+microcarcinome,261/23,50 mCi,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,paternel,hclhkwbp,droit et gauche,pT1a,non,40.0,non
+vésiculaire,262/23,90 mCi,tizi ouzou,,non,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,F,bilatéral,non,non,simples,maternel,hiodoswl,droit,pT1b,non,15.0,non
+classique,263/23,100 mCi,blida,2.0,non,nodule,bifocal,8.3 mm,TC,TT,TIRADS 4,mariée,H,sans,non,non,simples,sans,uzcrcsdg,droit,pT2,non,35.0,non
+vésiculaire,264/23,100 mCi,béjaia,4.0,non,gmn,,1.2 cm,TC,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,qhadxxzc,droit et gauche,pT3bN1,non,20.0,non
+classique,265/23,100 mCi,bba,1.0,non,nodule,,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,yxopqipl,droit,pT1bN1b,non,46.0,oui
+vésiculaire,266/23,100 mCi,ourgla,,oui,gmn,,25 mm,EC,TT,TIRADS 5,veuve,H,sans,non,oui,simples,sans,ildedxan,droit,pT2NxM1,oui,73.0,oui
+vésiculaire,267/23,100 mCi,alger,1.0,oui,nodule,,9.8 mm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,aufhajca,droit,pT1a,non,22.0,non
+classique,268/23,100 mCi,msila,1.0,non,nodule,unifocal,1.8 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,draodewd,droit,pT3b,non,50.0,non
+vésiculaire,269/23,100 mCi,bouira,1.0,non,nodule,unifocal,1.7 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,maternel,epimxigk,gauche,pT3b,oui,48.0,non
+classique,270/23,100 mCi,msila,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,vbmfklcw,droit,pT1bN1b,non,58.0,oui
+classique,271/23,100 mCi,alger,2.0,non,nodule,multifocal,4.4 cm,TC,TT,TIRADS 3,mariée,F,récurrentiel,non,non,simples,sans,obxmdifs,droit et gauche,pT3aN1,non,59.0,oui
+oncocytaire,272/23,100 mCi,tizi ouzou,,non,gmn,unifocal,2.9 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,maternel,irzverfz,gauche,pT2,non,40.0,non
+classique,273/23,100 mCi,bouira,3.0,non,nodule,multifocal,0.6 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sœur,mdylmmke,droit et gauche,pT1aN1a,non,57.0,oui
+microcarcinome,274/23,,tizi ouzou,1.0,,nodule,,0.8 cm,EC,TT,TIRADS 4,mariée,F,récurrentiel,,,simples,sans,jfhrewaa,droit,pT1a,,37.0,non
+vésiculaire,275/23,,alger,3.0,,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,F,latéral,,,simples,sans,iqjidmtx,gauche,pT4,,33.0,
+classique,276/23,100 mCi,alger,1.0,non,nodule,unifocal,2.5 cm,DF,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,xwrqfeod,droit,pT1N1,non,32.0,oui
+classique,277/23,100 mCi,boumerdas,,non,gmn,multifocal,5 cm,EC,TT,TIRADS ,marié,F,sans,non,non,simples,sans,uxxnnucx,droit et gauche,pT3a,non,46.0,non
+oncocytaire,278/23,100 mCi,alger,7.0,oui,gmn,bifocal,0.7 cm,EC,TT,TIRADS 5,mariée,F,récurrentiel,oui,non,simples,sans,bpjmgrah,droit et gauche,pT1aN1a,non,56.0,oui
+vésiculaire,279/23,100 mCi,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,euaotqnp,droit,pT2,non,53.0,non
+oncocytaire,280/23,100 mCi,tizi ouzou,4.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,lilmfpau,droit et gauche,pT1b,non,65.0,non
+classique,281/23,100 mCi,msila,1.0,non,nodule,unifocal,1.8 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,jogbyeyz,droit,pT3b,non,50.0,non
+vésiculaire,282/23,100 mCi,bouira,1.0,non,nodule,unifocal,1.7 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,maternel,qkrhxlyw,gauche,pT3b,oui,48.0,non
+classique,283/23,100 mCi,msila,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,abrvsjtx,droit,pT1bN1b,non,58.0,oui
+classique,284/23,100 mCi,alger,2.0,non,nodule,multifocal,4.4 cm,TC,TT,TIRADS 3,mariée,F,récurrentiel,non,non,simples,sans,zqomamiz,droit et gauche,pT3aN1,non,59.0,oui
+oncocytaire,285/23,100 mCi,tizi ouzou,,non,gmn,unifocal,2.9 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,maternel,fvngietj,gauche,pT2,non,40.0,non
+classique,286/23,100 mCi,bouira,3.0,non,nodule,multifocal,0.6 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sœur,pmdujfpu,droit et gauche,pT1aN1a,non,57.0,oui
+classique,287/23,100 mCi,souk ahras,3.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 6,célibataire,F,latéral,non,non,simples,maternel,xsceuejc,droit,pT2N1b,non,32.0,non
+classique,288/23,100 mCi,béjaia,1.0,non,nodule,unifocal,0.9 mm,TC,TT,TIRADS 5,mariée,F,central,oui,non,simples,paternel,bosluzfu,gauche,pT1bN1a,non,46.0,oui
+vésiculaire,289/23,100 mCi,sétif,1.0,non,nodule,bifocal,1 cm,TC,TT,TIRADS 3,célibataire,F,central,non,non,simples,sans,ckijfmcu,droit,pT1aN1b,non,37.0,non
+microcarcinome,290/23,50 mCi,tipaza,1.0,oui,nodule,unifocal,9 mm,ADP,TT,TIRADS 5,célibataire,F,sans,non,non,simples,sans,xxkkcguu,droit,pT1aN1b,non,24.0,oui
+vésiculaire,291/23,100 mCi,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,TT,TIRADS 5,marié,H,sans,non,non,simples,sœur,rrtunivr,gauche,pT2,non,46.0,non
+classique,292/23,100 mCi,alger,1.0,non,goitre,,1.5 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,vvywxbwy,droit et gauche,pT1b,non,44.0,non
+vésiculaire,293/23,100 mCi,bouira,1.0,oui,gmn,unifocal,5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sœur,vnsnepee,droit,pT3,non,76.0,non
+vésiculaire,294/23,50 mCi,bouira,1.0,non,nodule,unifocal,15 mm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,umxkndrs,gauche,pT1b,non,57.0,non
+vésiculaire,295/23,100 mCi,ain defla,,non,gmn,unifocal,2 cm,TC,TT,TIRADS 4,mariée,F,sans,oui,non,simples,sans,onktmprf,isthme,pT1b,non,40.0,non
+classique,296/23,50 mCi,alger,,non,nodule,,2.8 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,yzwntlzb,droit,pT2,non,48.0,non
+classique,297/23,100 mCi,médea,2.0,non,nodule,unifocal,1 cm,DF,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,hjcoweum,gauche,pT1bN1,non,35.0,oui
+vésiculaire,298/23,100 mCi,sétif,,non,gmn,,,EC,TT,TIRADS 6,marié,F,sans,non,oui,simples,sans,sxyxqqid,,,non,77.0,oui
+classique,299/23,100 mCi,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,TT,TIRADS 4,marié,F,sans,non,non,simples,maternel,slkpglvd,droit,pT3a,non,53.0,non
+classique,300/23,100 mCi,tizi ouzou,3.0,oui,gmn,multifocal,4 cm,EC,TT,TIRADS 6,marié,F,sans,oui,non,simples,sœur,jvjghbir,droit et gauche,pT4a,oui,53.0,non
+oncocytaire,301/23,100 mCi,alger,1.0,non,nodule,unifocal,52 mm,DF,TT,TIRADS 5,marié,F,central,non,non,simples,sans,ceuwxxbg,droit,pT3bN1a,non,49.0,non
+vésiculaire,302/23,100 mCi,alger,3.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,rmgtfpzr,droit et gauche,pT2N1bM1,non,46.0,oui
+vésiculaire,303/23,100 mCi,annaba,2.0,non,nodule,bifocal,25 mm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,pgufkpos,droit et isthme,pT1a,non,27.0,non
+classique,304/23,100 mCi,blida,2.0,non,nodule,,1 cm,DF,TT,TIRADS 4,mariée,H,sans,non,non,simples,paternel,ktohugkf,droit,pT1aN1,non,48.0,oui
+microcarcinome,305/23,100 mCi,alger,2.0,non,nodule,bifocal,9 mm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,paternel,xuelaivn,droit et gauche,pT1aN1a,non,42.0,oui
+classique,306/23,100 mCi,ghardia,2.0,non,goitre,,1 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,ggprwobj,droit,pT1bN1b,non,28.0,oui
+classique,307/23,100 mCi,alger,1.0,non,nodule,unifocal,1.7 cm,DF,TT,TIRADS 4,mariée,H,récurrentiel,non,non,simples,sans,dwqyzknc,gauche,pT1bN1,non,59.0,oui
+whartin like,308/23,100 mCi,batna,1.0,oui,nodule,,1.5 cm,DF,TT,TIRADS 5 ,mariée,F,central,non,non,simples,frère,oqbppqda,gauche,pT1bN1b,non,39.0,oui
+vésiculaire,309/23,100 mCi,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,TT,TIRADS 3,mariée,F,sans,non,oui,simples,paternel,ykwrlplt,gauche,pT1a,non,29.0,non
+vésiculaire,310/23,100 mCi,alger,3.0,non,gmn,,15 mm,TC,TT,TIRADS 4,célibataire,H,sans,non,non,simples,sans,ojrwmuej,droit,pT2,non,42.0,non
+classique,312/23,100 mCi,ghardia,2.0,non,nodule,,1.8 cm,TC,TT,TIRADS 3,célibataire,F,récurrentiel,non,non,simples,sans,rvyxrwzu,droit,pT1bN1b,non,32.0,oui
+classique,313/23,,msila,2.0,non,nodule,,0.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,ivaoymjw,isthme,pT1aN1,non,48.0,oui
+vésiculaire,314/23,100 mCi,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,pbcktzkt,droit et gauche,pT2a,non,45.0,non
+vésiculaire,315/23,,djelfa,1.0,non,nodule,,1.5 cm,ADP,TT,TIRADS 5,marié,H,sans,non,oui,simples,sans,yrlqwojr,droit,pT3,non,48.0,non
+vésiculaire,315/23,non,alger,3.0,non,gmn,bifocal,4 cm,EC,TT,TIRADS 3,célibataire,F,latéral,non,,50 mCi,sans,kybqtyab,gauche,pT4,non,33.0,
+classique,316/23,oui,blida,1.0,non,nodule,,1.3 cm,EC,TT,TIRADS 5,célibataire,F,central,non,,100 mCi,maternel,ppegoydv,gauche,pT1bN1a,non,18.0,
+classique,316/23,oui,bba,2.0,non,nodule,multifocal,2.5 cm,DF,TT,TIRADS 5,célibataire,F,récurrentiel,non,,82 mCi,sans,sanovpxe,isthme et gauche,pT2N1b,non,10.0,
+classique,317/23,non,bouira,1.0,non,gmn,,1.5 cm,TC,TT,TIRADS 4,mariée,F,sans,non,,50 mCi,sans,mhpqbgaj,droit,pT1b,non,60.0,
+classique,316/23,100 mCi,msila,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,mhhbvnta,droit,pT1b,non,38.0,non
+vésiculaire,317/23,100 mCi,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,ouazapxh,droit,pT3a,non,64.0,non
+solide,318/23,150 mCi,bouira,1.0,non,nodule,,8 cm,TC,TT,TIRADS 4,marié,F,sans,non,oui,simples,decendant,psldbxay,droit,pT3a,non,74.0,non
+classique,319/23,100 mCi,médea,3.0,non,goitre,,13 mm,EC,TT,TIRADS 5,marié,F,central,oui,non,simples,paternel,yfglddzr,droit,pT1b,non,40.0,non
+classique,320/23,100 mCi,béjaia,1.0,non,goitre,,45 mm,EC,TT,TIRADS 5,mariée,F,latéral,oui,non,simples,sans,rfwujlkr,droit,pT2,oui,44.0,non
+classique,321/21,100 mCi,médea,,oui,goitre,unifocal,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,maternel,nvyszezl,droit,pT1bN1b,oui,30.0,oui
+classique,322/23,100 mCi,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,paqfbnpy,droit,pT1aN1b,non,37.0,non
+microcarcinome,323/23,50 mCi,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,TT,TIRADS 3,mariée,H,sans,non,non,simples,paternel,xbsqbpna,droit et gauche,pT1a,non,40.0,non
+vésiculaire,324/23,90 mCi,tizi ouzou,,non,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,F,bilatéral,non,non,simples,maternel,gwhldeew,droit,pT1b,non,15.0,non
+classique,325/23,100 mCi,blida,2.0,non,nodule,bifocal,8.3 mm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,vcpsrhvb,droit,pT2,non,35.0,non
+vésiculaire,326/23,100 mCi,béjaia,4.0,non,gmn,,1.2 cm,TC,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,exlwielo,droit et gauche,pT3bN1,non,20.0,non
+classique,327/23,100 mCi,bba,1.0,non,nodule,,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,iknkkfas,droit,pT1bN1b,non,46.0,oui
+vésiculaire,328/23,100 mCi,ourgla,,oui,gmn,,25 mm,EC,TT,TIRADS 5,veuve,H,sans,non,oui,simples,sans,vtupoxcc,droit,pT2NxM1,oui,73.0,oui
+vésiculaire,329/23,100 mCi,alger,1.0,oui,nodule,,9.8 mm,EC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,rleklikh,droit,pT1a,non,22.0,non
+microcarcinome,330/23,100 mCi,alger,1.0,non,nodule,,7 mm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,vauikevn,droit,pT1aN1a,non,35.0,oui
+vésiculaire,331/23,100 mCi,alger,1.0,oui,nodule,,12 mm,TC,TT,TIRADS 5,célibataire,F,sans,oui,non,simples,sœur,wkrzspbx,gauche,pT1b,non,28.0,non
+vésiculaire,332/23,100 mCi,tizi ouzou,1.0,oui,nodule,,1.5 cm,DF,TT,TIRADS 5,marié,F,sans,oui,non,simples,maternel,lvsdzfto,droit,pT1bN1b,non,54.0,oui
+classique,333/23,100 mCi,alger,3.0,non,gmn,unifocal,3 cm,TC,TT,TIRADS 4,marié,F,central,non,non,simples,maternel,lmsgvglc,droit et isthme,pT2N1a,non,36.0,non
+vésiculaire,334/23,100 mCi,alger,,oui,nodule,multifocal,17 mm,TC,TT,TIRADS 5,marié,H,central,non,non,simples,sans,bzjgibru,droit,pT1bN1b,non,27.0,oui
+classique,335/23,50 mCi,alger,1.0,non,nodule,,1.2 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,maternel,lzmnqyxa,gauche,pT1b,non,34.0,non
+microcarcinome,336/23,50 mCi,alger,,non,gmn,bifocal,15 mm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,pxdkfbmv,gauche,pT1b,non,42.0,non
+classique,336/23,100 mCi,tiaret,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,célibataire,F,sans,non,non,simples,paternel,ldkrvqmh,gauche,pT1b,non,25.0,non
+classique,337/23,100 mCi,alger,1.0,non,gmn,bifocal,1.5 cm,EC,TT,TIRADS 5,mariée,H,central,non,non,simples,paternel,losdgtrg,droit et isthme,pT1aN1a,non,31.0,non
+classique,338/23,100 mCi,médea,,non,nodule,,0.9 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,maternel,othfhipn,gauche,pT1aN1b,non,33.0,non
+vésiculaire,339/23,100 mCi,béjaia,,non,nodule,,5 cm,EC,TT,TIRADS 5,mariée,F,sans,oui,non,simples,sans,zjafgifl,droit,pT1b,non,31.0,non
+classique,340/23,100 mCi,tizi ouzou,,oui,gmn,,1.5 cm,TC,TT,TIRADS 5,célibataire,H,sans,non,non,simples,maternel,moyibqfi,droit,pT1b,non,33.0,non
+microcarcinome,341/23,100 mCi,béjaia,2.0,non,gmn,multifocal,8 mm,EC,TT,TIRADS 4,mariée,F,sans,non,non,simples,maternel,ztrshtnv,droit et gauche,pT1a,non,40.0,non
+vésiculaire,342/23,100 mCi,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,mbrvleux,droit,pT2,non,53.0,non
+oncocytaire,343/23,100 mCi,tizi ouzou,4.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,lkjjmqbw,droit et gauche,pT1b,non,65.0,non
+classique,344/23,100 mCi,msila,1.0,non,nodule,unifocal,1.8 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,nnkponqe,droit,pT3b,non,50.0,non
+vésiculaire,345/23,100 mCi,bouira,1.0,non,nodule,unifocal,1.7 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,maternel,zefkcqiz,gauche,pT3b,oui,48.0,non
+classique,346/23,100 mCi,msila,1.0,non,nodule,unifocal,1.3 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,sqeuedyv,droit,pT1bN1b,non,58.0,oui
+classique,347/23,100 mCi,alger,2.0,non,nodule,multifocal,4.4 cm,TC,TT,TIRADS 3,mariée,F,récurrentiel,non,non,simples,sans,cmfcwpgu,droit et gauche,pT3aN1,non,59.0,oui
+oncocytaire,348/23,100 mCi,tizi ouzou,,non,gmn,unifocal,2.9 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,maternel,ciexcxip,gauche,pT2,non,40.0,non
+classique,349/23,100 mCi,bouira,3.0,non,nodule,multifocal,0.6 cm,EC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sœur,irhquhyf,droit et gauche,pT1aN1a,non,57.0,oui
+classique,351/23,100 mCi,souk ahras,3.0,non,nodule,unifocal,2.5 cm,TC,TT,TIRADS 6,célibataire,F,latéral,non,non,simples,maternel,hkwkcqkm,droit,pT2N1b,non,32.0,non
+classique,352/23,100 mCi,béjaia,1.0,non,nodule,unifocal,0.9 mm,TC,TT,TIRADS 5,mariée,H,central,oui,non,simples,paternel,sexkopvb,gauche,pT1bN1a,non,46.0,oui
+vésiculaire,353/23,100 mCi,sétif,1.0,non,nodule,bifocal,1 cm,TC,TT,TIRADS 3,célibataire,F,central,non,non,simples,sans,figherjh,droit,pT1aN1b,non,37.0,non
+microcarcinome,364/23,50 mCi,tipaza,1.0,oui,nodule,unifocal,9 mm,ADP,TT,TIRADS 5,célibataire,H,sans,non,non,simples,sans,iijnvtgb,droit,pT1aN1b,non,24.0,oui
+vésiculaire,365/23,100 mCi,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,TT,TIRADS 5,marié,F,sans,non,non,simples,sœur,bkhqqlpz,gauche,pT2,non,46.0,non
+classique,366/23,100 mCi,alger,1.0,non,goitre,,1.5 cm,EC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,wcjeizso,droit et gauche,pT1b,non,44.0,non
+vésiculaire,367/23,100 mCi,bouira,1.0,oui,gmn,unifocal,5 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sœur,sxtqwkno,droit,pT3,non,76.0,non
+vésiculaire,368/23,50 mCi,bouira,1.0,non,nodule,unifocal,15 mm,EC,TT,TIRADS 4,mariée,H,sans,non,non,simples,sans,qdssfrzk,gauche,pT1b,non,57.0,non
+vésiculaire,369/23,100 mCi,ain defla,,non,gmn,unifocal,2 cm,TC,TT,TIRADS 4,mariée,F,sans,oui,non,simples,sans,zyazxbla,isthme,pT1b,non,40.0,non
+classique,370/23,50 mCi,alger,,non,nodule,,2.8 cm,EC,TT,TIRADS 3,mariée,F,sans,non,non,simples,sans,mpronqrl,droit,pT2,non,48.0,non
+classique,371/23,100 mCi,médea,2.0,non,nodule,unifocal,1 cm,DF,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,ilztthzx,gauche,pT1bN1,non,35.0,oui
+vésiculaire,372/23,100 mCi,sétif,,non,gmn,,,EC,TT,TIRADS 6,marié,F,sans,non,oui,simples,sans,ugrqorzj,,,non,77.0,oui
+classique,373/23,100 mCi,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,TT,TIRADS 4,marié,F,sans,non,non,simples,maternel,tcaggmtp,droit,pT3a,non,53.0,non
+classique,374/23,100 mCi,tizi ouzou,3.0,oui,gmn,multifocal,4 cm,EC,TT,TIRADS 6,marié,F,sans,oui,non,simples,sœur,xuxlrlwj,droit et gauche,pT4a,oui,53.0,non
+oncocytaire,375/23,100 mCi,alger,1.0,non,nodule,unifocal,52 mm,DF,TT,TIRADS 5,marié,F,central,non,non,simples,sans,vvjtfkzk,droit,pT3bN1a,non,49.0,non
+vésiculaire,376/23,100 mCi,alger,3.0,non,gmn,multifocal,2 cm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,gonmahtg,droit et gauche,pT2N1bM1,non,46.0,oui
+vésiculaire,377/23,100 mCi,annaba,2.0,non,nodule,bifocal,25 mm,TC,TT,TIRADS 5,célibataire,F,central,non,non,simples,sans,ylaedzmr,droit et isthme,pT1a,non,27.0,non
+classique,378/23,100 mCi,blida,2.0,non,nodule,,1 cm,DF,TT,TIRADS 4,mariée,F,sans,non,non,simples,paternel,jlhsrkdb,droit,pT1aN1,non,48.0,oui
+microcarcinome,379/23,100 mCi,alger,2.0,non,nodule,bifocal,9 mm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,paternel,ydavzsuq,droit et gauche,pT1aN1a,non,42.0,oui
+classique,380/23,100 mCi,ghardia,2.0,non,goitre,,1 cm,TC,TT,TIRADS 5,mariée,F,sans,non,non,simples,sans,qkcquptg,droit,pT1bN1b,non,28.0,oui
+classique,381/23,100 mCi,alger,1.0,non,nodule,unifocal,1.7 cm,DF,TT,TIRADS 4,mariée,F,récurrentiel,non,non,simples,sans,qbdycwco,gauche,pT1bN1,non,59.0,oui
+whartin like,382/23,100 mCi,batna,1.0,oui,nodule,,1.5 cm,DF,TT,TIRADS 5 ,mariée,H,central,non,non,simples,frère,qzurqabu,gauche,pT1bN1b,non,39.0,oui
+vésiculaire,383/23,100 mCi,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,TT,TIRADS 3,mariée,F,sans,non,oui,simples,paternel,ujlgivyq,gauche,pT1a,non,29.0,non
+vésiculaire,385/23,100 mCi,alger,3.0,non,gmn,,15 mm,TC,TT,TIRADS 4,célibataire,F,sans,non,non,simples,sans,wcebiscu,droit,pT2,non,42.0,non
+classique,386/23,100 mCi,ghardia,2.0,non,nodule,,1.8 cm,TC,TT,TIRADS 3,célibataire,F,récurrentiel,non,non,simples,sans,suyvrglf,droit,pT1bN1b,non,32.0,oui
+classique,387/23,,msila,2.0,non,nodule,,0.5 cm,EC,TT,TIRADS 4,mariée,F,central,non,non,simples,sans,zixgphso,isthme,pT1aN1,non,48.0,oui
+vésiculaire,388/23,100 mCi,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,xpqqarju,droit et gauche,pT2a,non,45.0,non
+vésiculaire,389/23,,djelfa,1.0,non,nodule,,1.5 cm,ADP,TT,TIRADS 5,marié,F,sans,non,oui,simples,sans,rlddzmkz,droit,pT3,non,48.0,non
+classique,390/23,100 mCi,msila,1.0,oui,nodule,,4 cm,EC,TT,TIRADS 5,marié,H,sans,non,non,simples,sans,gaoyxdyo,droit,pT1b,non,38.0,non
+vésiculaire,391/23,100 mCi,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,TT,TIRADS 5,marié,F,sans,non,non,simples,sans,ohzxgsxb,droit,pT3a,non,64.0,non
+solide,392/23,150 mCi,bouira,1.0,non,nodule,,8 cm,TC,TT,TIRADS 4,marié,F,sans,non,oui,simples,decendant,vvysmmzc,droit,pT3a,non,74.0,non
+classique,393/23,100 mCi,médea,3.0,non,goitre,,13 mm,EC,TT,TIRADS 5,marié,F,central,oui,non,simples,paternel,zcakiaqn,droit,pT1b,non,40.0,non
+classique,394/23,100 mCi,béjaia,1.0,non,goitre,,45 mm,EC,TT,TIRADS 5,mariée,F,latéral,oui,non,simples,sans,sbwhmuga,droit,pT2,oui,44.0,non
+classique,395/23,100 mCi,médea,,oui,goitre,unifocal,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,maternel,nbfgpfjg,droit,pT1bN1b,oui,30.0,oui
+classique,396/23,100 mCi,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,gootnlgj,droit,pT1aN1b,non,37.0,non
+microcarcinome,397/23,50 mCi,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,TT,TIRADS 3,mariée,F,sans,non,non,simples,paternel,yclffrhh,droit et gauche,pT1a,non,40.0,non
+vésiculaire,398/23,90 mCi,tizi ouzou,,non,nodule,unifocal,2 cm,DF,TT,TIRADS 3,célibataire,F,bilatéral,non,non,simples,maternel,pwefwhia,droit,pT1b,non,15.0,non
+classique,399/23,100 mCi,blida,2.0,non,nodule,bifocal,8.3 mm,TC,TT,TIRADS 4,mariée,F,sans,non,non,simples,sans,ssnuzpgj,droit,pT2,non,35.0,non
+vésiculaire,400/23,100 mCi,béjaia,4.0,non,gmn,,1.2 cm,TC,TT,TIRADS 4,célibataire,F,central,non,non,simples,sans,ulvvnsuo,droit et gauche,pT3bN1,non,20.0,non
+classique,401/23,100 mCi,bba,1.0,non,nodule,,17 mm,TC,TT,TIRADS 5,mariée,F,central,non,non,simples,sans,boecmyqk,droit,pT1b,non,46.0,non
+,002/22,100 mci,tipaza,,non,goitre,multifocal,3.5 cm,ec,tt,tirads 4,célibataire,H,récurrentiel,oui,non,simples,sans,hrzmgjlg,droit,pt2n1b,oui,35.0,non
+classique,003/22,100 mci,tizi ouzou,1.0,,nodule,multifocal,2.5 cm,df,tt,tirads 4,mariée,F,central,non,non,simples,sœur,wgvlvcmm,gauche,pt2,oui,52.0,non
+classique,004/22,100 mci,medea,1.0,,nodule,multifocal,1.5 cm,ec,tt,tirads 5,marié,H,central,,non,simples,sans,rhqucwnt,gauche,pt1a,,35.0,non
+vésiculaire,005/22,100 mci,alger,,,gmn,,1.1 cm,ec,tt,,mariée,F,sans,non,,simples,sans,nsjbnazd,droit,pt1b,,46.0,
+vésiculaire et microcarcinome,006/22,100 mci,tipaza,5.0,,nodule,,5 cm,ec,tt,tirads 4,divorcée,F,sans,non,,simples,sans,tpshoglv,droit et gauche,pt3a,,42.0,
+classique,007/22,,béjaia,1.0,non,nodule,bifocal,2 cm,ec,tt,tirads 5,mariée,H,sans,oui,non,simples,sans,hdplwkzl,droit et gauche,pt3b,oui,46.0,non
+microcarcinome,008/22,50 mci,djelfa,1.0,non,hypothyroidie,bifocal,1.1 cm,ec,tt,tirads 5,mariée,H,sans,non,non,simples,sans,ouhkddip,gauche,pt1a,non,27.0,non
+vésiculaire,009/22,,msila,1.0,non,adp,unifocal,1.5 cm,ec,tt,tirads 4,célibataire,F,récurrentiel,non,non,simples,sans,ugmuivsx,gauche,pt1b,non,21.0,non
+classique,010/22,,alger,1.0,oui,goitre,multifocal,2.5 cm,tc,tt,tirads 5,célibataire,H,récurrentiel,oui,non,dysphonie,sans,zihvhuzz,droit,pt3bn1,oui,40.0,oui
+microcarcinome,011/22,100 mci,msila,1.0,non,adp,bifocal,0.7 cm,cytoponction,tt,tirads 5,célibataire,H,central,non,non,simples,maternel,krolbuwj,gauche,pt1a,non,40.0,non
+classique,012/22,,tipaza,1.0,non,goitre,unifocal,0.6 cm,tc,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,tjreczmh,droit,pt1a,non,56.0,non
+vésiculaire,013/22,,bba,1.0,non,gmn,multifocal,0.7 cm,tc,tt,tirads 5,mariée,F,sans,non,non,simples,sans,rcsrboxw,droit,pt1a,non,43.0,non
+,014/22,,tizi ouzou,1.0,non,thyroidite,multifocal,13 mm,ec,tt,tirads 5,divorcée,F,central,non,non,simples,sans,vhrwbxri,droit et gauche,pt1a,non,42.0,non
+vésiculaire,015/22,100 mci,tipaza,1.0,non,gmn,unifocal,1.1 cm,tc,tt,tirads 4,mariée,F,sans,oui,non,simples,paternel,lgebpcsl,gauche,pt1b,non,33.0,non
+microcarcinome,016/22,,bba,1.0,non,hyperplasie nodulaire,unifocal,1.5 cm,cytoponction,tt,tirads 5,mariée,F,sans,non,non,simples,sans,xzhnyeei,gauche,pt1b,non,50.0,non
+classique,017/22,,alger,1.0,non,hyperplasie,multifocal,1 cm,ec,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,sœur,pguiblii,gauche,pt1a,non,68.0,non
+microcarcinome,018/22,,tizi ouzou,1.0,non,hyperplasie,unifocal,1.5 cm,ec,tt,,mariée,F,central,non,non,simples,sans,bsncbwhn,gauche,pt1a,non,34.0,non
+vésiculaire,019/22,100 mci,alger,3.0,non,goitre,bifocal,4 cm,df,tt,tirads 3,célibataire,F,latéral,non,non,simples,sans,kybqtyab,droit et gauche,nift-p,non,31.0,non
+vésiculaire,020/22,100 mci,,,,,,6.5 cm,tt,,,,F,,,,,,agzhdkmr,,pt3,,69.0,
+classique,021/22,100 mci,tizi ouzou,2.0,non,goitre,bifocal,20 mm,tc,tt,tirads 5,mariée,H,central,oui,non,simples,maternel,hrwbcopl,droit et gauche,pt2n1a,oui,41.0,oui
+classique,022/22,,alger,1.0,non,goitre,unifocal,2 cm,cytoponction,tt,tirads 4,célibataire,F,central,non,non,hypocalcémie,sans,dremftep,gauche,pt1b,non,27.0,non
+vésiculaire,023/22,100 mci,alger,2.0,non,goitre,unifocal,1.5 cm,df,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,sans,tezurioj,gauche,pt1b,non,57.0,non
+microcarcinome,024/22,100 mci,chlef,1.0,non,nodule,unifocal,1 mm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,sans,sdwrpngo,droit,pt1b,non,49.0,non
+classique,025/22,100 mci,alger,1.0,non,gmn,unifocal,2.4 cm,df,tt,tirads 4,mariée,F,central,non,non,simples,sans,sstqwnug,gauche,pt2n1a,non,33.0,oui
+microcarcinome,026/22,100 mci,tizi ouzou,1.0,non,goitre,unifocal,8 mm,cytoponction,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,pwcjlzal,droit,pt1a,oui,49.0,non
+microcarcinome,027/22,,tizi ouzou,1.0,non,thyroidite lymphocytaire,unifocal,3 mm,ec,tt,tirads 2,célibataire,F,sans,non,non,simples,sans,ukinvznr,gauche,pt1a,non,61.0,non
+microcarcinome,028/22,,alger,1.0,non,gmn,unifocal,5 mm,tc,tt,tirads 3,mariée,F,sans,non,non,simples,sans,akblpqag,gauche,pt1a,non,42.0,non
+vésiculaire,029/22,100 mci,alger,1.0,non,goitre,unifocal,6 cm,ec,tt,tirads 5,célibataire,H,sans,non,non,simples,sans,zrdgbuoy,droit,pt3a,non,28.0,non
+microcarcinome,030/22,,tizi ouzou,1.0,non,nodule,unifocal,11.2 mm,cytoponction,tt,tirads 5,mariée,H,central,non,non,simples,sans,qlregyft,gauche,pt1an1a,non,50.0,non
+classique,031/22,100 mci,alger,2.0,non,gmn,multifocal,9 mm,cytoponction,tt,tirads 5,veuve,F,central,non,non,simples,paternel,ffslfrgg,droit et gauche,pt1bn1a,non,37.0,non
+vésiculaire,032/22,,alger,3.0,non,gmn,bifocal,1 cm,tc,tt,tirads 5,célibataire,F,sans,non,non,dysphonie,sans,vzcgypti,droit et gauche,pt1b,non,42.0,non
+classique,033/22,,alger,1.0,oui,nodule,,2 cm,ec,tt,tirads 4,marié,H,central,non,non,,sœur,qvucjjiy,,pt2n1b,non,51.0,oui
+classique,034/22,,alger,3.0,oui,gmn,bifocal,1.2 cm,tc,tt,tirads 4,mariée,F,récurrentiel,non,non,,maternel,yukkhfrs,,pt1bn1a,non,55.0,oui
+vésiculaire,034/22,,annaba,1.0,non,gmn,unifocal,23 mm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,ehswrgtd,gauche,pt1b,non,61.0,non
+oncocytaire,035/22,,blida,3.0,oui,nodule,bifocal,1.7 cm,ec,tt,tirads 5,mariée,F,central,non,non,simples,sans,rqvfnsuk,gauche et isthme,pt1bn1b,non,23.0,non
+classique,036/22,100 mci,sétif,6.0,oui,gmn,unifocal,15 mm,tc,tt,tirads 3,marié,H,récurrentiel,non,non,simples,maternel,jdoplybj,gauche,pt1b,non,50.0,non
+classique,037/22,100 mci,alger,,non,gmn,,15 mm,,tt,tirads 4,mariée,F,sans,non,non,simples,sans,cfxerohg,,pt1b,non,34.0,non
+microcarcinome,038/22,,boumerdas,2.0,non,gmn,multifocal,0.6 cm,cytoponction,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,pzunaooy,droit et gauche,pt1a,non,35.0,non
+microcarcinome,039/22,,béjaia,1.0,non,thyroidite lymphocytaire,unifocal,2 cm,ec,tt,,célibataire,H,sans,non,non,simples,sans,vqkhgaku,gauche,pt1a,non,35.0,non
+oncocytaire,040/22,100 mci,tipaza,2.0,non,néoplasie folliculaire,,26 mm,df,tt,tirads 3,célibataire,F,central,non,non,simples,sans,wopgziuv,droit et gauche,pt2,non,40.0,non
+classique,041/22,,tebessa,3.0,non,gmn,multifocal,1.96 cm,tc,tt,tirads 5,mariée,F,latéral,non,non,simples,sans,cjrlepqo,droit et gauche,pt1bn1a,non,47.0,non
+microcarcinome,042/22,,alger,1.0,non,hyperplasie,unifocal,0.3 cm,cytoponction,tt,tirads 3,mariée,F,sans,non,non,simples,sans,jbcrdxlr,gauche,pt1a,non,31.0,non
+oncocytaire,043/22,non,alger,1.0,,nodule,,2.3 cm,ec,tt,tirads 5,célibataire,F,sans,non,,,maternel,xdneampc,droit,pt2,non,24.0,
+oncocytaire,044/22,,batna,1.0,non,hyperplasie,unifocal,2.8 cm,cytoponction,tt,tirads 2,divorcée,F,sans,non,non,simples,sans,zdvtzomj,gauche,pt2,non,41.0,non
+vésiculaire,045/22,,batna,1.0,non,goitre,unifocal,2 cm,cytoponction,tt,tirads 3,célibataire,H,sans,non,non,simples,sans,jyssoxbh,droit,pt2,non,55.0,non
+classique,046/22,,msila,1.0,non,gmn,unifocal,1.7 cm,cytoponction,tt,tirads 5,célibataire,F,central,non,non,simples,sans,rmkmqjak,droit,pt1b,non,25.0,non
+microcarcinome,047/22,,bba,1.0,non,nodule,unifocal,8 mm,ec,tt,tirads 5,mariée,F,bilatéral,non,non,simples,sans,sjlidfcz,droit,pt1an1a,non,40.0,oui
+microcarcinome,047/22,100 mci,médea,3.0,non,nodule,bifocal,7.5 mm,cytoponction,tt,tirads 5,mariée,F,sans,non,non,simples,sans,wvuawxjg,droit et gauche,pt1a,non,55.0,non
+classique,048/22,,tizi ouzou,,,,,,,,,,H,,,,,,grcjpdvp,,,,59.0,
+microcarcinome,049/22,,alger,3.0,non,gmn,unifocal,0.9 cm,ec,tt,,mariée,F,sans,non,non,simples,sans,pwhipnjf,droit,pt1a,non,68.0,non
+vésiculaire,050/22,,blida,4.0,non,goitre,unifocal,1.1 cm,cytoponction,tt,tirads 5,mariée,F,sans,non,non,simples,sans,rsnbhbxx,droit,pt1b,non,33.0,non
+,050/22,,,,,,,,,,,,F,,,,,,nlebhqfn,,,,57.0,
+classique,051/22,,alger,2.0,non,goitre,multifocal,1.4 cm,cytoponction,tt,tirads 4,mariée,F,central,oui,non,simples,sans,cvehpozd,droit,pt1bn1,non,60.0,oui
+classique,051/22,100 mci,djelfa,1.0,oui,nodule,unifocal,1.1 cm,df,tt,tirads 5,marié,H,central,oui,non,simples,sans,ecqjgrtp,droit,pt3n1,non,50.0,non
+solide,052/22,100 mci,blida,1.0,oui,gmn,unifocal,1.3 cm,cytoponction,tt,tirads 5,mariée,F,central,non,non,simples,sans,wprxjfqi,droit,pt3n1,non,48.0,oui
+microcarcinome,052/22,,ouergla,1.0,non,nodule,unifocal,9 mm,cytoponction,tt,tirads 4,mariée,F,central,non,non,simples,sans,axtdoxlc,droit,pt1a,non,48.0,non
+oncocytaire,053/22,100 mci,sétif,2.0,non,gmn,unifocal,14 mm,df,tt,tirads 4,marié,H,central,non,non,dysphonie,sans,qpyjelep,gauche,pt1b,non,73.0,non
+microcarcinome,053/22,,alger,2.0,non,gmn,unifocal,5.4 mm,ec,tt,tirads 3,mariée,F,récurrentiel,non,non,simples,paternel,ytxdvtau,gauche,pt1a,non,52.0,non
+classique,054/22,,djelfa,3.0,non,thyroidite lymphocytaire,unifocal,1.8 cm,tc,tt,tirads 5,célibataire,F,central,non,non,paralysie réccurentielle,maternel,yzgdgsyx,droit,pt1b,non,59.0,non
+microcarcinome,054/22,50 mci,alger,1.0,non,thyroidite lymphocytaire,bifocal,2 mm,ec,tt,tirads 5,mariée,F,sans,non,non,simples,paternel,ckffslil,droit,pt1b,non,30.0,non
+microcarcinome,055/22,,bba,1.0,non,nodule,multifocal,6 mm,df,tt,,mariée,F,sans,non,non,simples,sans,cluciirj,gauche,pt1a,non,45.0,non
+classique,055/22,,médea,2.0,oui,goitre,bifocal,1.3 cm,tc,tt,,célibataire,F,récurrentiel,oui,,,sans,hlbwmicr,droit,pt1bn1a,oui,43.0,
+,056/22,,,,,,,,,,,,F,,,,,,femmhywo,,,,29.0,
+classique,057/22,,alger,1.0,,gmn,,2 cm,df,tt,tirads 5,marié,H,central,,,dysphonie,paternel,ueiqfznp,isthme,pt2,,41.0,
+vésiculaire,057/22,,alger,5.0,oui,gmn,multifocal,3 cm,cytoponction,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,efygbenl,droit et gauche,pt3a,non,46.0,oui
+vésiculaire,058/22,,alger,6.0,non,gmn,multifocal,3 cm,cytoponction,tt,tirads 6,mariée,F,récurrentiel,oui,non,simples,maternel,kzawkzex,droit et gauche,pt2,oui,56.0,non
+vésiculaire,058/22,,bba,1.0,non,nodule,unifocal,4.5 cm,df,tt,tirads 3,célibataire,H,sans,non,non,simples,maternel,xmbyfgnz,gauche,pt3a,non,30.0,non
+classique,059/22,,alger,1.0,non,nodule,bifocal,1 cm,ec,tt,tirads 5,mariée,H,central,non,non,simples,maternel,batbjabd,gauche et isthme,pt1b,non,36.0,non
+classique,060/22,,tizi ouzou,1.0,non,adp,unifocal,1.3 cm,ec,tt,tirads 3,mariée,F,sans,non,non,simples,sans,wwrxpbfm,gauche,pt1bn1a,oui,38.0,non
+classique,060/22,,bba,2.0,non,nodule,multifocal,46.1 mm,ec,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,nzuqijnz,droit et gauche,pt3,non,49.0,non
+classique,060/22,100 mci,sétif,1.0,non,thyroidite  lymphocytaire,unifocal,1.3 cm,tc,tt,,mariée,F,sans,non,non,simples,sœur,arombaps,gauche,pt1b,non,35.0,non
+microcarcinome,061/22,,tougourt,1.0,non,goitre,unifocal,8 mm,tc,tt,,mariée,F,sans,non,non,simples,sans,bkcjjhec,droit,pt1a,non,32.0,non
+classique,061/22,50 mci,khenchla,1.0,non,gmn,bifocal,15 mm,df,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,dpxafhtl,droit et gauche,pt1b,non,27.0,non
+microcarcinome,062/22,,alger,1.0,non,goitre,unifocal,8 mm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,iqikfenz,droit,pt1a,non,64.0,non
+microcarcinome,062/22,,médea,1.0,non,goitre,unifocal,12 mm,tc,tt,,mariée,F,sans,non,non,simples,sans,ljaxfcez,droit,pt1b,non,63.0,non
+classique,063/22,,alger,1.0,non,gmn,unifocal,2.5 cm,tc,tt,tirads 3,mariée,F,sans,non,non,simples,sans,haoarcqq,gauche,pt1b,non,44.0,non
+microcarcinome,064/22,,béjaia,1.0,non,gmn,unifocal,10 mm,tc,tt,,mariée,F,sans,non,non,simples,sans,ochiikqq,gauche,pt1a,non,46.0,non
+classique,064/22,,alger,2.0,oui,gmn,unifocal,1.2 cm,tc,tt,tirads 4,mariée,H,sans,oui,non,simples,sans,urtsfexw,gauche,pt1b,non,45.0,non
+vésiculaire,065/22,,médea,1.0,non,nodule,unifocal,10 mm,ec,tt,,mariée,F,sans,non,non,simples,sans,jqaujgae,droit,pt1a,non,42.0,non
+microcarcinome,065/22,,alger,1.0,non,nodule,bifocal,7 mm,ec,tt,,mariée,F,sans,non,non,simples,sans,nqwigfsl,droit,pt1a,oui,48.0,non
+oncocytaire,066/22,,alger,2.0,non,goitre,bifocal,10 mm,tc,tt,tirads 3,mariée,F,central,non,non,simples,sans,yeaijrjv,droit et gauche,pt1b,non,39.0,non
+classique,067/22,,jijel,1.0,oui,nodule,bifocal,4 cm,df,tt,tirads 4,mariée,F,récurrentiel,non,non,dysphonie,sans,luvlvtfs,gauche et isthme,pt2,non,25.0,non
+classique,067/22,100 mci,khenchla,2.0,oui,goitre,unifocal,2.5 cm,tc,tt,tirads 4,mariée,F,latéral,oui,non,simples,sans,oywcobed,gauche,pt2n1a,non,25.0,oui
+microcarcinome,068/22,,tizi ouzou,2.0,non,gmn,multifocal,3.2 mm,ec,tt,tirads 4,mariée,F,central,non,non,simples,sans,shgukzet,droit et gauche,pt1an1a,non,52.0,non
+vésiculaire,068/22,,tipaza,2.0,non,hyperplasie,multifocal,3 cm,tc,tt,tirads 3,célibataire,F,sans,non,non,simples,paternel,hlpepogz,droit,pt2,non,22.0,non
+vésiculaire,069/22,,ain defla,1.0,non,goitre,unifocal,3 cm,tc,loboisthmectomie,,mariée,F,sans,non,non,simples,sans,mbtvnnxc,gauche,pt2,non,55.0,non
+microcarcinome,069/22,,tipaza,1.0,non,nodule,unifocal,8 mm,ec,tt,tirads 4,mariée,F,central,non,non,simples,sans,mvxswtnp,gauche,pt1a,non,34.0,non
+vésiculaire,070/22,,tizi ouzou,2.0,non,goitre,multifocal,1.8 cm,ec,tt,tirads 3,mariée,F,sans,non,non,simples,sans,rjvrqchh,droit et gauche,pt2,non,45.0,non
+classique,070/22,100 mci,bba,3.0,non,adp,bifocal,1.5 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,dkjlieai,droit et gauche,pt1bn1,non,32.0,oui
+classique,071/22,,alger,5.0,oui,goitre,multifocal,0.4 cm,cytoponction,tt,tirads 5,veuve,F,central,non,non,simples,sans,iojxrtjq,droit et gauche,pt1an1a,non,34.0,non
+classique,071/22,,bba,1.0,non,nodule,unifocal,1 cm,cytoponction,tt,,célibataire,F,sans,non,non,dysphonie,sans,hofuntpu,droit,pt1a,non,45.0,non
+classique,072/22,,oran,1.0,non,nodule,unifocal,15 mm,cytoponction,tt,,mariée,F,sans,non,non,simples,maternel,urmlrdmh,gauche,pt1b,non,43.0,non
+vésiculaire,070/22,,bba,1.0,non,nodule,unifocal,1.8 cm,ec,tt,tirads 4,mariée,F,sans,non,non,,maternel,uorlbbsb,droit,pt1b,non,36.0,non
+classique,071/22,,alger,2.0,non,,bifocal,,df,tt,tirads 5,mariée,F,central,non,non,,frère,glhswxkx,droit et gauche,pt2n1a,non,50.0,non
+vésiculaire,071/22,,sétif,,non,gmn,,,ec,tt,tirads 4,mariée,F,sans,non,non,,sans,kpdwazzl,,pt1b,non,59.0,non
+classique,073/22,,bba,2.0,oui,gmn,bifocal,13 mm,df,tt,tirads 5,mariée,F,sans,non,non,,sœur,kdshpjps,gauche,pt1b,non,54.0,non
+classique,072/22,100 mci,tizi ouzou,1.0,non,gmn,multifocal,22 mm,df,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,maternel,rpcpsgpc,gauche,pt2n1a,non,37.0,oui
+oncocytaire,073/22,,boumerdas,2.0,non,gmn,bifocal,,tc,tt,tirads 4,mariée,F,central,non,non,simples,maternel,pgyfmgsf,droit et gauche,pt2,non,32.0,non
+vésiculaire,074/22,,msila,4.0,oui,gmn,bifocal,5 cm,tc,tt,tirads 4,mariée,F,sans,non,non,simples,sans,xsopnxqp,droit et gauche,pt3a,non,51.0,non
+classique,075/22,50 mci,alger,2.0,non,goitre,unifocal,1.8 cm,df,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,paternel,fqnnuemr,droit,pt1b,non,53.0,non
+microcarcinome,076/22,,tipaza,4.0,non,thyroidite lymphocytaire,unifocal,0.8 cm,ec,tt,,mariée,F,sans,non,non,simples,sans,eowyxbyg,gauche,pt1a,non,39.0,non
+,077/22,,,,,,,,,,,,F,,,,,,ccynbwqw,,,,31.0,
+classique,078/22,,tizi ouzou,3.0,oui,gmn,bifocal,2 cm,ec,tt,,mariée,F,récurrentiel,non,non,simples,sans,zrpodrwt,droit et gauche,pt1b,oui,30.0,non
+,079/22,,,,,,,,,,,,F,,,,,,ekjqkozj,,,,40.0,
+oncocytaire,080/22,100 mci,sétif,,non,nodule,unifocal,13 mm,tc,tt,,mariée,F,bilatéral,non,non,dysphonie,maternel,bbhirmji,droit,pt1b,non,43.0,non
+classique,081/22,non,bba,2.0,,gmn,bifocal,13 mm,df,tt,tirads 5,mariée,F,sans,,,100 mci,sœur,kdshpjps,gauche,pt1b,,54.0,
+classique,082/22,,béjaia,1.0,non,nodule,unifocal,2.5 cm,ec,tt,tirads 5,marié,H,central,non,non,simples,sans,wrdwghsi,droit,pt3b,non,40.0,non
+classique,083/22,,alger,3.0,oui,gmn,bifocal,1.7 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,wihnhymc,droit,pt1b,oui,43.0,non
+vésiculaire,084/22,100 mci,bouira,1.0,non,adp,unifocal,15 mm,tc,tt,tirads 4,mariée,F,sans,non,non,simples,sans,wpcxaqnr,droit,pt1b,non,32.0,non
+microcarcinome,085/22,,djelfa,1.0,non,nodule,unifocal,9 mm,ec,tt,tirads 5,mariée,F,sans,non,non,simples,sans,xrxyhvnw,droit,pt1a,non,23.0,non
+vésiculaire,086/22,,sétif,3.0,non,gmn,multifocal,3.8 cm,ec,tt,tirads 5,mariée,F,central,non,non,dysphonie,paternel,xsfmuykn,droit et gauche,pt3a,non,38.0,non
+microcarcinome,087/22,,bouira,1.0,non,gmn,unifocal,,tc,tt,,célibataire,F,sans,oui,non,simples,sans,lyvhvavd,,pt1a,non,46.0,non
+microcarcinome,088/22,,alger,1.0,non,goitre,unifocal,0.5 cm,tc,tt,,mariée,F,sans,non,non,hypocalcémie,sœur,exkdrovu,gauche,pt1a,non,38.0,non
+classique,089/22,,blida,,,,,,,,,,F,,,,,,lzohvnsl,,pt3,,33.0,
+vésiculaire,090/22,100 mci,alger,,non,thyroidite d'hashimoto,unifocal,1.8 cm,ec,tt,,mariée,F,central,non,non,simples,sans,ibnxwtpw,gauche,pt1b,non,37.0,oui
+microcarcinome,091/22,,alger,,non,adp,multifocal,33 mm,tc,loboisthmectomie,,mariée,F,sans,non,non,simples,sans,tavycjuu,droit,pt1a,non,45.0,non
+vésiculaire,091/22,,bouira,,non,gmn,bifocal,1.6 cm,ec,tt,,mariée,F,sans,non,non,simples,sans,nancprxt,droit,pt3a,non,63.0,non
+microcarcinome,091/22,,tizi ouzou,3.0,non,goitre nodulaire,multifocal,55 mm,cytoponction,tt,,mariée,F,,oui,non,simples,sans,jpfgjpbe,droit isthme et gauche,pt1a,non,48.0,non
+microcarcinome,092/22,,bba,,non,goitre,unifocal,4 mm,ec,tt,,mariée,F,sans,non,non,simples,sans,cnwepcuy,droit,,non,35.0,non
+classique,092/22,,djanet,,non,nodule,unifocal,2.7 cm,ec,tt,,célibataire,F,sans,oui,non,simples,sans,gushqlaj,gauche,pt2,non,23.0,non
+classique,093/22,,alger,,non,thyroidite lymphocytaire,multifocal,,df,tt,,mariée,F,central,non,non,hypocalcémie,maternel,lkqjukou,droit et gauche,,non,24.0,oui
+classique,093/22,,alger,1.0,oui,gmn,unifocal,1 cm,tc,tt,,célibataire,F,sans,oui,non,simples,sans,ryozikee,,pt2,non,26.0,non
+microcarcinome,094/22,,médea,2.0,oui,nodule,bifocal,0.4 cm,ec,tt,tirads 5,marié,H,central,non,non,simples,sans,zdsadrvr,droit et gauche,pt1an1a,oui,69.0,oui
+microcarcinome,095/22,,bechar,3.0,non,nodule,bifocal,5 mm,ec,tt,,mariée,H,récurrentiel,non,non,simples,sans,chjohwxt,gauche,pt1a,non,40.0,non
+classique,095/22,,tizi ouzou,2.0,oui,thyroidite lymphocytaire,unifocal,2.3 cm,cytoponction,tt,tirads 5,célibataire,H,central,non,non,simples,sans,vlympwgi,gauche,pt3n1a,non,16.0,oui
+microcarcinome,096/22,,tizi ouzou,5.0,non,nodule,multifocal,11 mm,cytoponction,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,vvngfxou,droit et gauche,pt3,non,42.0,non
+,097/22,,,,,,,,,,,,F,,,,,,nvjxyihk,,,,38.0,
+folliculaire,098/22,,oran,,oui,goitre,unifocal,4 cm,ec,loboisthmectomie,,célibataire,F,sans,non,non,simples,sans,qwucssxx,gauche,pt2,non,33.0,non
+classique,099/22,,médea,2.0,non,gmn,bifocal,1.4 cm,cytoponction,tt,tirads 5,marié,H,sans,non,non,simples,maternel,tgitmbfy,droit et gauche,pt1b,non,44.0,non
+vésiculaire,099/22,,chlef,,non,gmn,unifocal,1 cm,cytoponction,tt,tirads 3,mariée,F,sans,non,non,simples,sans,bbbnresm,gauche,pt1b,non,60.0,non
+classique,100/22,,médea,1.0,non,goitre nodulaire,,9 mm,ec,tt,tirads 4,divorcée,F,récurrentiel,non,non,simples,sans,hvvgegvw,droit,pt1a,non,29.0,non
+classique,101/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,ocwpuzbi,droit,pt1a,non,43.0,non
+vésiculaire,102/22,,alger,,oui,goitre nodulaire,,,tc,tt,,célibataire,F,homolatéral,oui,oui,simples,sans,rehmeibo,,pt2n1a,oui,56.0,oui
+vésiculaire,103/22,,bba,2.0,non,goitre nodulaire,bifocal,42.5 mm,ec,tt,tirads 4,mariée,F,central,non,non,simples,sans,jhjchash,droit et gauche,pt1a,non,33.0,non
+vésiculaire,104/22,,bba,2.0,non,goitre nodulaire,multifocal,,ec,tt,,mariée,F,,non,non,simples,sans,bhrfmhjg,droit et gauche,pt2,non,48.0,non
+classique,105/22,,blida,1.0,oui,nodule,unifocal,1.5 cm,df,tt,tirads 5,mariée,H,central,non,non,simples,maternel,bfouoced,gauche,pt1bn1,non,37.0,non
+oncocytaire,106/22,,tipaza,1.0,non,adp,unifocal,27 mm,ec,tt,tirads 5,mariée,F,bilatéral,non,non,simples,sans,gvsdsnte,gauche,pt2n1b,non,53.0,oui
+vésiculaire,107/22,,sétif,,non,gmn,,,ec,tt,tirads 4,mariée,F,sans,non,non,,sans,kpdwazzl,,pt1b,non,59.0,non
+classique,108/22,,médea,1.0,non,goitre nodulaire,,9 mm,ec,tt,tirads 4,divorcée,F,récurrentiel,non,non,simples,sans,rnwibnnq,droit,pt1a,non,37.0,non
+classique,109/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,brkkycxw,droit,pt1a,non,43.0,non
+vésiculaire,110/22,,alger,,oui,goitre nodulaire,,,tc,tt,,célibataire,F,homolatéral,oui,oui,simples,sans,ojdrugbe,,pt2n1a,oui,52.0,oui
+vésiculaire,111/22,,bba,2.0,non,goitre nodulaire,bifocal,42.5 mm,ec,tt,tirads 4,mariée,F,central,non,non,simples,sans,ruzwwwlj,droit et gauche,pt1a,non,57.0,non
+vésiculaire,112/22,,bba,2.0,non,goitre nodulaire,multifocal,,ec,tt,,mariée,F,,non,non,simples,sans,hiucnusg,droit et gauche,pt2,non,72.0,non
+classique,113/22,,blida,1.0,oui,nodule,unifocal,1.5 cm,df,tt,tirads 5,mariée,F,central,non,non,simples,maternel,qvonewza,gauche,pt1bn1,non,45.0,non
+classique,114/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,coqiqkjb,droit,pt1a,non,43.0,non
+vésiculaire,115/22,,alger,,oui,goitre nodulaire,,,tc,tt,,célibataire,F,homolatéral,oui,oui,simples,sans,fwbubzkg,,pt2n1a,oui,56.0,oui
+microcarcinome,116/22,,tizi ouzou,1.0,non,nodule,,8 mm,ec,tt,tirads 3,mariée,F,sans,oui,non,,sans,rgasbmoc,droit,pt1a,oui,50.0,non
+oncocytaire,117/22,,tipaza,1.0,non,nodule,,22 mm,tc,tt,tirads 6,mariée,F,central,non,non,,sans,gvsdsnte,gauche,pt2n1b,non,54.0,oui
+classique,118/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,jmndmhck,droit,pt1a,non,32.0,non
+classique,119/22,,béjaia,1.0,non,nodule,unifocal,2.5 cm,ec,tt,tirads 5,marié,F,central,non,non,simples,sans,ahzbvpsg,droit,pt3b,non,39.0,non
+classique,120/22,,alger,3.0,oui,gmn,bifocal,1.7 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,hkudiynm,droit,pt1b,oui,38.0,non
+vésiculaire,121/22,100 mci,bouira,1.0,non,adp,unifocal,15 mm,tc,tt,tirads 4,mariée,F,sans,non,non,simples,sans,ibnxwtpw,droit,pt1b,non,48.0,non
+microcarcinome,122/22,,djelfa,1.0,non,nodule,unifocal,9 mm,ec,tt,tirads 5,mariée,F,sans,non,non,simples,sans,wiabokbr,droit,pt1a,non,,non
+vésiculaire,123/22,,sétif,3.0,non,gmn,multifocal,3.8 cm,ec,tt,tirads 5,mariée,F,central,non,non,dysphonie,paternel,ffslfrgg,droit et gauche,pt3a,non,37.0,non
+microcarcinome,124/22,,bouira,1.0,non,gmn,unifocal,,tc,tt,,célibataire,F,sans,oui,non,simples,sans,ptntclbh,,pt1a,non,43.0,non
+microcarcinome,125/22,,alger,1.0,non,goitre,unifocal,0.5 cm,tc,tt,,mariée,F,sans,non,non,hypocalcémie,sœur,peaoxppw,gauche,pt1a,non,65.0,non
+classique,126/22,,blida,,,,,,,,,,F,,,,,,tmevmimu,,pt3,,45.0,
+vésiculaire,127/22,100 mci,alger,,non,thyroidite d'hashimoto,unifocal,1.8 cm,ec,tt,,mariée,F,central,non,non,simples,sans,uorlbbsb,gauche,pt1b,non,36.0,oui
+classique,128/22,,béjaia,1.0,non,nodule,unifocal,2.5 cm,ec,tt,tirads 5,marié,F,central,non,non,simples,sans,glhswxkx,droit,pt3b,non,50.0,non
+classique,129/22,,alger,3.0,oui,gmn,bifocal,1.7 cm,tc,tt,tirads 5,mariée,F,central,non,non,simples,sans,kpdwazzl,droit,pt1b,oui,59.0,non
+vésiculaire,130/22,100 mci,bouira,1.0,non,adp,unifocal,15 mm,tc,tt,tirads 4,mariée,F,sans,non,non,simples,sans,kdshpjps,droit,pt1b,non,54.0,non
+microcarcinome,131/22,,djelfa,1.0,non,nodule,unifocal,9 mm,ec,tt,tirads 5,mariée,F,sans,non,non,simples,sans,eibczumo,droit,pt1a,non,56.0,non
+vésiculaire,132/22,,sétif,3.0,non,gmn,multifocal,3.8 cm,ec,tt,tirads 5,mariée,F,central,non,non,dysphonie,paternel,tcsnxrrx,droit et gauche,pt3a,non,40.0,non
+microcarcinome,133/22,,bouira,1.0,non,gmn,unifocal,,tc,tt,,célibataire,F,sans,oui,non,simples,sans,yhlzseir,,pt1a,non,61.0,non
+microcarcinome,134/20,,alger,1.0,non,goitre,unifocal,0.5 cm,tc,tt,,mariée,F,sans,non,non,hypocalcémie,sœur,uxqixtcu,gauche,pt1a,non,42.0,non
+classique,135/22,,blida,,,,,,,,,,F,,,,,,efsotlrd,,pt3,,55.0,
+vésiculaire,136/22,100 mci,alger,,non,thyroidite d'hashimoto,unifocal,1.8 cm,ec,tt,,mariée,F,central,non,non,simples,sans,qgyulnwc,gauche,pt1b,non,48.0,oui
+vésiculaire,137/22,,bba,1.0,non,nodule,unifocal,1.8 cm,ec,tt,tirads 4,mariée,F,sans,non,non,,maternel,uorlbbsb,droit,pt1b,non,36.0,non
+classique,138/22,,alger,2.0,non,,bifocal,,df,tt,tirads 5,mariée,F,central,non,non,,frère,glhswxkx,droit et gauche,pt2n1a,non,50.0,
+microcarcinome,139/22,,boumerdas,,,,,,,,,,F,,,,,,uytpsgwf,,,,79.0,
+vésiculaire,140/22,,alger,,,,,,,,,,F,,,,,,uiacdcwa,,,,31.0,
+vésiculaire,141/22,,alger,,,,,,,,,,F,,,,,,ufobmqvh,,,,57.0,
+vésiculaire,142/22,,alger,,oui,gmn,,1.1 cm,ec,tt,,mariée,F,sans,oui,non,,sans,mihikwgj,droit,pt1b,non,61.0,non
+classique,143/22,,bouira,1.0,non,nodule,unifocal,3 cm,ec,tt,tirads 4,mariée,F,récurrentiel,non,non,,sans,tuqaogzw,droit,pt1bn1b,non,54.0,oui
+classique,144/22,,alger,1.0,non,nodule,multifocal,1.9 cm,ec,tt,tirads 5,mariée,F,latéral,non,non,,sans,tcsnxrrx,droit et gauche,pt1b,non,40.0,non
+vésiculaire,145/22,,ain defla,1.0,non,nodule,,3 cm,tc,tt,tirads 4,mariée,F,sans,non,non,,sans,yhlzseir,,pt2,non,61.0,non
+classique,146/22,,,,,,,,,,,,H,,,,,,hzqdqwuc,,,,,
+,147/22,,alger,,non,nodule,unifocal,1.8 cm,ec,tt,tirads 3,célibataire,F,central,oui,non,,sans,ibnxwtpw,gauche,pt1bn1a,oui,48.0,non
+vésiculaire,148/22,,,,,,,,,,,,F,,,,,,wiabokbr,,,,,
+oncocytaire,149/22,,alger,3.0,non,goitre,multifocal,1.2 cm,ec,tt,tirads 3,veuve,F,récurrentiel,non,non,,sœur,ffslfrgg,droit et gauche,pt1bn1a,non,37.0,oui
+classique,150/22,,sétif,1.0,non,nodule,,13 mm,tc,tt,tirads 5,mariée,F,central,non,non,,maternel,ptntclbh,droit,pt1b,oui,43.0,non
+classique,151/22,non,,2.0,non,goitre,multifocal,1.7 cm,ec,tt,tirads 3,mariée,F,central,non,,,sans,peaoxppw,droit et gauche,pt1bn1a,non,55.0,
+classique,152/22,non,,,oui,nodule,unifocal,1.8 cm,ec,tt,tirads 3,célibataire,F,central,non,,,sans,exmfsxsm,gauche,pt1bn1a,oui,27.0,
+vésiculaire,153/22,,alger,3.0,non,gmn,multifocal,,df,tt,tirads 4,mariée,F,récurrentiel,oui,non,,sans,ufobmqvh,,pt2,oui,57.0,non
+classique,154/22,,tizi ouzou,1.0,oui,goitre,unifocal,1.8 cm,tc,tt,tirads 4,mariée,F,sans,oui,non,,sans,kpccgyhy,droit,pt1b,oui,63.0,non
+vésiculaire,155/22,,boumerdas,2.0,,gmn,bifocal,36 mm,ec,tt,tirads 4,mariée,F,,non,non,simples,paternel,wllguyok,droit et gauche,pt1a,non,34.0,non
+classique,156/22,,tamenrast,,,,,,,,,,F,,,,,sans,qbkpomvq,,,,27.0,
+vésiculaire,157/22,,tipaza,1.0,oui,adp,multifocal,7.5 mm,adp,tt,tirads 5,mariée,F,central,non,non,simples,sans,czlczaam,droit,pt1bn1a,non,28.0,oui
+classique,157/22,,msila,1.0,non,nodule,unifocal,1.5 cm,tc,tt,tirads 4,mariée,F,central,non,non,simples,sans,ggvvgjfl,droit,pt1b,non,49.0,non
+vésiculaire,158/22,,alger,2.0,non,nodule,bifocal,1.5 cm,ec,tt,tirads 3,divorcé,F,sans,non,non,simples,sans,rcxpcwvj,droit et gauche,pt1b,non,54.0,non
+classique,158/22,,tipaza,4.0,oui,gmn,multifocal,1.5 cm,tc,tt,tirads 5,célibataire,F,sans,oui,non,simples,sans,ijajsrax,droit et gauche,pt1b,non,52.0,non
+,159/22,,,,,,,,,,,,H,,,,,,yiuogrjo,,,,34.0,
+classique,160/22,,,,,,,,,,,mariée,F,,,,,,fltktrrw,,,,42.0,
+classique,161/22,,médea,2.0,non,gmn,bifocal,1.4 cm,cytoponction,tt,tirads 5,marié,F,sans,non,non,simples,maternel,kpccgyhy,droit et gauche,pt1b,non,63.0,non
+vésiculaire,162/22,,chlef,,non,gmn,unifocal,1 cm,cytoponction,tt,tirads 3,mariée,H,sans,non,non,simples,sans,nttjskhs,gauche,pt1b,non,50.0,non
+classique,163/22,,médea,1.0,non,goitre nodulaire,,9 mm,ec,tt,tirads 4,divorcée,H,récurrentiel,non,non,simples,sans,fjbdewto,droit,pt1a,non,28.0,non
+classique,164/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,H,central,non,non,simples,sans,zdyncrha,droit,pt1a,non,16.0,non
+vésiculaire,165/22,,alger,,oui,goitre nodulaire,,,tc,tt,,célibataire,H,homolatéral,oui,oui,simples,sans,ubjyzfwg,,pt2n1a,oui,42.0,oui
+vésiculaire,166/22,,bba,2.0,non,goitre nodulaire,bifocal,42.5 mm,ec,tt,tirads 4,mariée,H,central,non,non,simples,sans,yuqnlksj,droit et gauche,pt1a,non,59.0,non
+classique,167/22,,alger,1.0,non,nodule,,0.5 cm,ec,tt,,marié,H,sans,non,non,,sans,ubjyzfwg,gauche,pt1an1a,non,42.0,oui
+vésiculaire,168/22,,bba,2.0,non,goitre nodulaire,multifocal,,ec,tt,,mariée,H,,non,non,simples,sans,nttjskhs,droit et gauche,pt2,non,50.0,non
+classique,169/22,,blida,1.0,oui,nodule,unifocal,1.5 cm,df,tt,tirads 5,mariée,H,central,non,non,simples,maternel,fjbdewto,gauche,pt1bn1,non,28.0,non
+oncocytaire,170/22,,tipaza,1.0,non,adp,unifocal,27 mm,ec,tt,tirads 5,mariée,H,bilatéral,non,non,simples,sans,zdyncrha,gauche,pt2n1b,non,16.0,oui
+classique,171/22,,médea,1.0,non,goitre nodulaire,,9 mm,ec,tt,tirads 4,divorcée,H,récurrentiel,non,non,simples,sans,ubjyzfwg,droit,pt1a,non,42.0,non
+classique,172/22,,bba,2.0,non,adp,bifocal,1 cm,tc,tt,tirads 5,mariée,H,central,non,non,simples,sans,yuqnlksj,droit,pt1a,non,59.0,non
+vésiculaire,173/22,,alger,,oui,goitre nodulaire,,,tc,tt,,célibataire,F,homolatéral,oui,oui,simples,sans,cqytrtsl,,pt2n1a,oui,30.0,oui
+classique,174/22,,msila,1.0,,nodule,,1.4 cm,ec,tt,tirads 4,mariée,F,sans,,,,sans,hiucnusg,droit,pt1b,,72.0,
+vésiculaire,175/22,,djelfa,,,nodule,,1.5 cm,df,tt,tirads 4,mariée,F,sans,,,,sans,qvonewza,droit,pt1b,,45.0,
+classique,176/22,,msila,3.0,,nodule,bifocal,5 cm,df,tt,tirads 4,célibataire,,sans,,,,sans,buwuogdq,droit et gauche,pt3,,30.0,
+classique,177/22,,oued souf,1.0,non,nodule,unifocal,14 mm,ec,tt,,mariée,F,récurrentiel,non,non,simples,sans,rmsevmct,gauche,pt2n1,non,54.0,oui
+classique,178/22,,soukahras,,,,,,,,,,H,,,,,,ijprafpc,,,,45.0,
+classique,178/22,,biskra,,non,hyperplasie,,,df,tt,,mariée,F,central,non,non,simples,sans,kozxcmzm,droit,pt1b,non,65.0,non
+microcarcinome,179/22,,médea,3.0,non,hyperplasie,multifocal,8 mm,ec,tt,,célibataire,F,,non,non,simples,maternel,xdmcmphf,droit et gauche,pt1a,non,39.0,oui
+microcarcinome,179/22,,alger,,non,goitre diffus,,1 cm,cytoponction,tt,tirads 3,mariée,F,,non,non,simples,maternel,xgqkhjwe,droit,pt1a,non,26.0,non
+classique,180/22,,alger,2.0,non,hypothyroidie,unifocal,1.7 cm,df,tt,tirads 5,mariée,F,central,non,non,simples,sans,spumxggb,gauche,pt1bn1a,non,26.0,oui
+classique,180/22,,taref,2.0,oui,adp,,3 cm,ec,tt,tirads 4,célibataire,H,central,non,non,simples,sans,kvkaqpvt,droit,pt2n1b,non,30.0,oui
+oncocytaire,181/22,,blida,1.0,non,adp,,1.2 cm,ec,loboisthmectomie,,mariée,F,récurrentiel,non,non,simples,sans,wypijyit,gauche,pt1b,non,38.0,non
+classique,182/22,,béjaia,2.0,non,nodules,bifocal,0.5 cm,cytoponction,tt,,mariée,F,sans,non,non,simples,sans,qrenankk,droit et gauche,pt1a,non,47.0,non
+microcarcinome,182/22,,alger,3.0,non,lésion folliculaire,multifocal,0.2 cm,ec,tt,,marié,H,récurrentiel,oui,non,simples,sans,nnjdexjk,droit et gauche,pt1an1b,oui,63.0,non
+classique,183/22,,tipaza,2.0,non,gg,bifocal,1.9 cm,cytoponction,tt,,mariée,F,central,oui,non,simples,sans,kngccbzv,droit et gauche,pt1bn1a,non,42.0,oui
+classique,183/22,,tizi ouzou,2.0,oui,thyroidite,bifocal,1.7 cm,adp,tt,,mariée,F,central,oui,non,simples,maternel,ifxpgzyf,droit et gauche,pt3n1a,non,26.0,non
+oncocytaire,184/22,,médea,1.0,non,asthénie,,6.4 mm,ec,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,fpufescy,droit,pt3b,oui,37.0,non
+classique,184/22,,annaba,1.0,non,nodule,,1.8 cm,ec,tt,tirads 5,mariée,F,central,non,non,dysphonie,frère,pqlcsnex,gauche,pt1b,non,48.0,non
+microcarcinome,185/22,,alger,1.0,non,nodule,,0.5 cm,df,tt,,mariée,F,central,non,non,simples,sœurs,olvgfqzn,gauche,pt1a,non,63.0,non
+microcarcinome,186/22,,blida,,non,nodule,,0.5 cm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,sans,xdeogauf,droit,pt1a,non,40.0,non
+classique,186/22,,béjaia,2.0,non,gmn,bifocal,9 mm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,maternel,jfmfogej,gauche,pt1a,non,56.0,non
+vésiculaire,187/22,,boumerdas,1.0,non,nodule,,11 cm,df,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,bjrtavbm,droit,pt1,non,59.0,non
+classique,187/22,,alger,5.0,non,thyroidite lymphocytaire,,1.2 cm,ec,tt,,mariée,F,sans,non,non,simples,sans,felvyevv,droit et gauche,pt2,non,60.0,non
+classique,188/22,,médea,2.0,non,goitre nodulaire,bifocal,7 mm,ec,tt,,célibataire,H,sans,oui,non,simples,maternel,kgkpsgki,gauche et isthme,pt1a,non,44.0,non
+classique,188/22,,chlef,1.0,non,nodule,,3 cm,ec,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,sans,pcliolgp,droit,pt2,non,50.0,non
+classique,189/22,,alger,,oui,,,,df,tt,,mariée,F,sans,oui,non,simples,sans,smwpbzyo,,pt1bn1a,non,32.0,oui
+classique,190/22,,soukahras,,oui,goitre nodulaire,,5.6 cm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,maternel,uopagols,isthmique,pt3b,non,46.0,non
+warthin like,190/22,,alger,1.0,non,nodule,,0.5 cm,ec,tt,tirads 5,mariée,F,central,non,non,simples,sans,jcgclnzh,droit,pt1an1a,non,33.0,non
+classique,191/22,,médea,2.0,non,nodule,bifocal,7 mm,cytoponction,tt,,marié,H,central,non,non,simples,paternel,rbipzmxo,droit et gauche,pt1a,non,48.0,non
+microcarcinome,191/22,,bba,2.0,non,gmn,bifocal,0.1 cm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,mcsvzvey,droit et gauche,pt1a,non,53.0,non
+classique,192/22,,constantine,2.0,oui,goitre,bifocal,2 cm,ec,tt,,célibataire,H,sans,oui,non,simples,sans,dsihhgqd,gauche,pt3b,oui,52.0,non
+oncocytaire,192/22,,bba,,non,gmn,unifocal,3 cm,adp,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,nmthywsh,gauche,pt2,non,40.0,non
+classique,192/22,,médea,1.0,non,gmn,unifocal,11 mm,ec,tt,,mariée,F,central,non,non,simples,sans,vrlthvir,droit,pt1b,non,48.0,non
+vésiculaire,193/22,,bba,1.0,non,adp,unifocal,10.5 mm,cytoponction,tt,,mariée,F,récurrentiel,non,non,simples,sans,upmvzzfx,gauche,,non,43.0,oui
+classique,193/22,,tizi ouzou,1.0,oui,goitre,unifocal,1.6 cm,ec,tt,tirads 5,célibataire,H,récurrentiel,non,non,simples,sans,ntzqihhh,droit,pt1b,non,45.0,non
+microcarcinome,194/22,,bouira,3.0,non,goitre,bifocal,6 mm,df,tt,,mariée,F,,non,non,simples,sans,sthaleem,droit et gauche,pt1a,non,60.0,non
+microcarcinome,194/22,,tiaret,1.0,non,nodule,unifocal,10 mm,ec,tt,,mariée,F,central,non,non,simples,sans,icpphvit,droit,pt1bn1a,non,28.0,oui
+oncocytaire,195/22,,alger,2.0,oui,nodule échogène,unifocal,11 mm,ec,tt,tirads 4,mariée,F,droit,non,non,simples,sans,ukeanfzc,droit,pt1b,oui,53.0,non
+vésiculaire,195/22,,médea,1.0,non,gmn,unifocal,6 mm,ec,tt,tirads 4,mariée,F,droit,non,non,simples,sans,vxhhfsih,gauche,pt1a,non,59.0,non
+multifocal,196/22,,blida,3.0,oui,goitre,multifocal,15 mm,ec,tt,,mariée,F,central,non,non,simples,sœur,rymtjqmy,droit isthme et gauche,pt1bn1b,non,32.0,oui
+classique,197/22,,médea,2.0,non,nodule,bicentrique,1.1 cm,df,tt,,marié,H,,non,non,simples,sans,ccvjyapp,droit et gauche,pt1a,non,44.0,non
+vésiculaire,198/22,,tipaza,2.0,non,nodule,,22 mm,ec,tt,,mariée,F,,non,non,simples,maternel,vnlosdxk,droit et gauche,pt2,non,53.0,non
+classique,199/22,,médea,2.0,non,nodule,bilateral,15 mm,tc,tt,tirads 3,mariée,F,sans,non,non,simples,sans,euhditzd,droit et gauche,pt1b,non,60.0,non
+oncocytaire,200/22,,bba,3.0,oui,nodules,multifocal,8 mm,ec,tt,tirads 5,mariée,F,sans,non,non,simples,sœurs,nvhinmij,bifocal,pt1a,oui,65.0,non
+microcarcinome,201/22,,medea,1.0,non,néoplasme folliculaire,unifocal,2 mm,df,tt,tirads 3,mariée,F,,non,non,simples,sans,vmueeqoz,unifocal,pt1a,non,32.0,non
+microcarcinome,201/22,,tizi ouzou,,non,,,2 mm,df,tt,,mariée,F,,non,non,simples,sans,yvtwexym,,pt1a,non,37.0,non
+classique,202/22,,tizi ouzou,1.0,non,nodule,unifocal,3.5 cm,tc,tt,tirads 4,mariée,F,sans,oui,non,,sans,jpfgjpbe,isthme,pt3,oui,50.0,non
+classique,203/22,,oued souf,,non,adénopathie,,1.5 cm,df,tt,tirads 5,divorcée,F,,oui,non,simples,sans,ahrbqidy,droit,pt1b,oui,38.0,non
+vésiculaire,204/22,,djelfa,,non,thyroidite,,10 mm,df,tt,,mariée,F,,non,non,simples,sans,kelotoyy,droit,pt1a,non,42.0,non
+vésiculaire,205/22,,alger,3.0,non,gmn,multifocal,,df,tt,tirads 4,mariée,F,récurrentiel,oui,non,,sans,ufobmqvh,,pt2,oui,57.0,non
+microcarcinome,206/22,,alger,,non,néoplasme,unifocal,2 mm,,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,sans,mnoivelg,droit,pt1a,non,37.0,non
+classique,207/22,,skikda,5.0,oui,néoplasme,bifocal,13 mm,ec,tt,tirads 4,célibataire,F,central,,non,hypocalcémie,maternel,xezxuwme,droit & isthm,pt1bn1a,oui,28.0,oui
+oncocytaire,208/22,,alger,,non,,,4 mm,df,tt,tirads 4,mariée,F,,non,non,simples,sans,cmbksvql,gauche,pt1a,non,57.0,non
+classique,209/22,,medea,2.0,non,gg infracentrimetrique,,15 mm,ec,tt,tirads 2,mariée,F,,non,non,simples,sans,ezcdmuau,droit,pt2,non,37.0,non
+microcarcinome,210/22,,ain defla,1.0,non,nodule,unifocal,2 mm,ec,tt,tirads 4,mariée,F,sans,non,non,simples,sans,onrjleul,droit,pt1a,non,66.0,non
+vésiculaire,211/22,,ain defla,1.0,non,nodule,,3 cm,tc,tt,tirads 4,mariée,F,sans,non,non,,sans,yhlzseir,,pt2,non,61.0,non
+warthin like,212/22,,alger,2.0,non,thyroidite,bilateral,1.1 cm,ec,tt,tirads 4,divorcée,F,,non,non,simples,sans,ktqnhkak,droit,,non,42.0,non
+classique,213/22,,alger,2.0,oui,goitre,multifocal,1.7 cm,ec,tt,tirads 3,mariée,F,central,non,non,,sans,hkudiynm,droit et gauche,pt1bn1a,non,38.0,non
+classique,214/22,,alger,7.0,non,goitre,unifocal,1.4 cm,df,tt,tirads 4,célibataire,H,central,non,non,simples,maternelle,eabrkqgl,droit,pt1bn1a,non,38.0,oui
+,215/22,,,,,,,,,,,,,,,,,,tbdxbbah,,,,,
+microcarcinome,216/22,,alger,2.0,oui,néoplasme,multifocal,12 mm,ec,tt,tirads 3,mariée,F,central,oui,non,simples,maternel,dvgxyome,droit et gauche,pt1an1a,non,32.0,non
+classique,217/22,,boumerdas,1.0,oui,,unifocal,30 mm,df,tt,,mariée,F,,oui,non,simples,sans,gycvrqgt,droit,pt2,oui,53.0,non
+vésiculaire,218/22,,sétif,3.0,non,néoplasme,,,cytoponction,tt,,divorcé,H,,non,non,congestive,sans,krlyoqex,,pt1b,non,48.0,non
+classique,219/22,,béjaia,,oui,goitre,,,,tt,,mariée,F,,non,non,,sans,jqvkckvf,gauche,pt1a,non,31.0,non
+vésiculaire,220/22,,alger,3.0,non,goitre,multifocal,1.2 cm,ec,tt,tirads 3,veuve,F,récurrentiel,non,non,,sœur,ffslfrgg,droit et gauche,pt1bn1a,non,37.0,oui
+oncocytaire,221/22,,sétif,1.0,non,nodule,,13 mm,tc,tt,tirads 5,mariée,F,central,non,non,,maternel,ptntclbh,droit,pt1b,oui,43.0,non
+microcarcinome,222/22,,boumerdas,1.0,non,goitre,bifocal,2.5 mm,cytoponction,tt,tirads 4,mariée,F,,non,non,simples,sans,wjknbhta,gauche,pt1b,non,56.0,non
+,223/22,,,,,,,,,,,,,,,,,,jyukonmb,,,,,
+classique,224/22,,alger,4.0,non,gmn,bifocal,1.8 cm,df,tt,tirads 3,mariée,F,central,non,,,maternel,ahzbvpsg,droit et gauche,pt1bn1a,non,39.0,non
+classique,225/22,,alger,2.0,non,goitre,multifocal,1.7 cm,ec,tt,tirads 3,mariée,F,central,non,,,sans,hkudiynm,droit et gauche,pt1bn1a,non,38.0,non
+classique,226/22,,biskra,15.0,oui,gmn,,2 cm,adénopathie cervicale,tt,,célibataire,F,central,non,oui,simples,sans,cctxlxrp,droit,pt1bn1a,oui,39.0,non
+oncocytaire,227/22,,sétif,1.0,non,nodule,,13 mm,tc,tt,tirads 5,mariée,F,central,non,non,,maternel,ptntclbh,droit,pt1b,oui,43.0,non
+microcarcinome,228/22,,tizi ouzou,1.0,non,nodule solide,multifocal,7 mm,,tt,tirads 4,mariée,F,,oui,non,simples,sans,wjdraulg,gauche isthm,pt1a,non,43.0,non
+vésiculaire,229/22,,alger,2.0,non,goitre,,6 cm,tc,tt,tirads 3,célibataire,H,sans,non,non,,maternel,fjbdewto,droit,pt3,non,28.0,non
+vésiculaire,230/22,,tizi ouzou,1.0,non,nodule,,1.4 cm,tc,tt,tirads 5,célibataire,H,latéral,oui,non,,paternel,zdyncrha,droit et gauche,pt1bn1b,non,16.0,oui
+classique,231/22,,alger,1.0,non,nodule,,0.5 cm,ec,tt,,marié,H,sans,non,non,,sans,ubjyzfwg,gauche,pt1an1a,non,42.0,oui
+classique,232/22,,msila,2.0,oui,nodule,multifocal,23  mm,adp,tt,,mariée,F,récurrentiel,oui,non,simples,sans,ivddtpfi,gauche,pt3bn1b,oui,33.0,oui
+trabéculaire/solide,232/22,,tizi ouzou,,oui,goitre h écogène,lobaire,,adp,tt,,célibataire,F,,oui,non,simples,sans,ldmyiwfv,droit,pt2,non,23.0,non
+warthin like,233/22,,jijel,3.0,non,thyroidite lymphocytaire,bifocal,1.6 cm,ec,tt,tirads 4,mariée,F,,non,non,simples,maternel,bxvdpujf,droit,pt1b,oui,47.0,non
+classique,234/22,,boumerdas,1.0,non,thyroidite lymphocytaire,bifocal,1.6 cm,df,tt,,mariée,F,central,non,non,dysphonie,sans,yonghnau,,pt1b,non,39.0,non
+vésiculaire,235/22,,béjaia,1.0,non,goitre,unifocal,,df,tt,,mariée,F,,non,non,simples,sans,egedqnag,droit,nift-p,non,40.0,non
+classique,236/22,,tizi ouzou,1.0,oui,goitre,unifocal,1.8 cm,tc,tt,tirads 4,mariée,F,sans,oui,non,,sans,kpccgyhy,droit,pt1b,oui,63.0,non
+classique,237/22,,msila,1.0,,nodule,unifocal,3 cm,tc,tt,,marié,H,central,,,,sans,nttjskhs,droit et gauche,pt2n1b,,50.0,oui
+vésiculaire,238/22,,alger,3.0,non,néoplasme vésiculaire,unifocal,,cytoponction,tt,tirads 4,mariée,F,,non,non,simples,sans,skvqclhs,gauche,pt1b,non,54.0,non
+classique,239/22,,médea,,non,,,,,tt,,,F,,non,non,,sans,akomtqxa,,pt1b,non,47.0,non
+médullaire,240/22,,alger,,,,,,thyroidite,tt,,mariée,F,sans,,,,sans,vvycemlo,,pt3a,,71.0,
+classique,241/22,,tizi ouzou,,non,,,1.3 cm,adp,tt,,mariée,F,,non,non,simples,sans,xnrcptvi,gauche,pt2,non,45.0,non
+classique,242/22,,tiaret,,non,thyroidite lymphocytaire,,,,,tirads 4,mariée,F,,non,non,simples,sans,yewloikg,,pt2b,non,64.0,non
+classique,243/22,,blida,5.0,non,gmn,multifocal,3.5 cm,tc,tt,tirads 5,marié,H,central,oui,non,simples,maternel,jgtidced,gauche,pt3n1b,non,34.0,oui
+classique,244/22,,tiaret,1.0,non,nodule,unifocal,3.5 cm,df,tt,tirads 5,marié,H,central,oui,non,simples,sans,xmbjnach,gauche,pt1b,non,33.0,non
+microcarcinome,245/22,,bba,1.0,non,goitre,unifocal,12 mm,tc,tt,tirads 4,mariée,F,,non,non,ligature des trompes,sans,ujcnspqi,droit,pt1b,non,50.0,non
+microcarcinome,246/22,,blida,1.0,non,goitre,unifocal,1 cm,df,tt,tirads 4,mariée,F,,non,non,simples,sans,deevzhjz,droit,pt1a,non,47.0,non
+microcarcinome,247/22,,bba,2.0,non,goitre,bifocal,0.8 cm,tc,tt,tirads 4,mariée,F,,non,non,simples,sans,hrccxcdv,droit et gauche,pt1a,non,62.0,non
+microcarcinome,248/22,,médea,2.0,non,hyperplasie,bifocal,0.2 cm,df,tt,,mariée,F,,non,non,simples,sans,gcqzjbld,gauche,,non,54.0,non
+classique,249/22,,bba,8.0,non,nodule,unifocal,,df,tt,tirads 5,mariée,F,central,non,non,simples,sans,ixmrccvm,gauche,pt1a,non,32.0,non
+microcarcinome,250/22,,alger,2.0,non,goitre,bifocal,0.1 cm,tc,tt,,mariée,F,,non,non,,sans,jzlzwmig,,pt1a,non,35.0,non
+classique,251/22,,msila,1.0,non,thyroidite lymphocytaire,unifocal,1.2 cm,df,tt,tirads 5,mariée,F,,non,non,simples,sans,yxmvrtft,droit,pt1b,non,30.0,non
+oncocytaire,252/22,,chlef,1.0,non,hyperplasie,unifocal,1.5 cm,df,tt,,mariée,F,,oui,non,simples,sans,zlsfqznb,gauche,pt1,non,58.0,non
+classique,253/22,,alger,,non,nodule,unifocal,1.8 cm,ec,tt,tirads 3,célibataire,F,central,oui,non,,sans,ibnxwtpw,gauche,pt1bn1a,oui,48.0,non
+vésiculaire,254/22,,médea,1.0,non,goitre,unifocal,7 mm,tc,tt,,mariée,F,,non,non,simples,sans,klisiqgt,droit,pt1a,non,27.0,non
+classique,255/22,,biskra,1.0,non,gmn,unifocal,1.2 cm,df,tt,tirads 5,divorcée,F,central,non,non,simples,sans,acszbaqe,gauche,pt1b,oui,34.0,oui
+classique,256/22,,msil,1.0,non,goitre,unifocal,2.5 cm,tc,tt,,mariée,F,,non,non,simples,sans,tmybqogs,droit,pt1b,oui,38.0,non
+classique + oncocytaire ,257/22,,djelfa,3.0,non,gmn,multifocal,3.5 cm,ec,tt,tirads 5,marié,H,central,non,non,,sans,yuqnlksj,droit et gauche,pt2n1b,non,59.0,non
+classique,258/22,,msila,3.0,,nodule,bifocal,3.6 cm,df,tt,tirads 4,célibataire,F,sans,,non,,sans,cqytrtsl,droit et gauche,pt2,,30.0,oui
+classique,259/22,,chlef,,non,,unifocal,,adp,tt,,mariée,F,,non,non,simples,sans,dtqzqffv,gauche,pt2,non,34.0,non
+classique,260/22,,djelfa,,non,nodule,,1.9 cm,ec,tt,tirads 5,mariée,F,sans,non,non,,sans,ruzwwwlj,droit et gauche,pt1b,oui,57.0,non
+classique,261/22,,bejaia,,non,nodules hypoéchogènes,multifocal,12 mm,ec,tt,tirads 3,mariée,F,,oui,non,simples,sœur,ztakzyao,droit et gauche,pt1b,non,42.0,non
+vésiculaire,262/22,,alger,3.0,non,goitre,multifocal,1.2 cm,ec,tt,tirads 3,veuve,F,récurrentiel,non,non,,sœur,ffslfrgg,droit et gauche,pt1bn1a,non,37.0,oui
+microcarcinome,263/22,,bejaia,3.0,,goitremultinodulaire,multifocal,10 mm,df,tt,tirads 5,mariée,F,sans,,,,maternel,muhxfifa,gauche,pt1b,,36.0,
+CMT,264/22,,,1.0,,thyroidite,,23 mm,ec,tt,,mariée,F,central,,,simples,sans,huilzqpu,droit,,,42.0,
+classique,265/22,,bba,2.0,non,néoplasie vésiculaire,unifocal,1.3 cm,tc,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,diekaqvb,gauche,pt1b,non,32.0,non
+oncocytaire,266/22,,alger,1.0,non,goitre multinodulaire,unifocal,2 cm,cytoponction,tt,tirads 4,mariée,F,,non,non,simples,paternel,ivmyngcg,droit,,non,46.0,non
+microcarcinome,267/22,,blida,1.0,oui,gmn,unifocal,10 mm,cytoponction,tt,,mariée,F,sans,non,non,simples,sœur,wzrnpwwi,gauche,pt1a,non,73.0,non
+,268/22,,,,,,,,,,,,,,,,,,tengqaqp,,,,,
+vésiculaire,269/22,,alger,2.0,,nodule,,3.8 cm,adp,tt,,mariée,F,central,,non,dyspnée,sans,hmkmwien,gauche,,,41.0,oui
+classique,,,biskra,3.0,non,goitre,multifocal,3.5 cm,ec,tt,tirads 5,mariée,F,central,oui,oui,,sans,qcsjvypo,gauche,pt3n1b,oui,78.0,oui
+,001/20,100 mci,médea,2.0,non,goitre,bifocal,2 cm,TC,tt,tirads 5,mariée,F,central,non,oui,simples,maternel,xzwifcjq,gauche et isthme,pt4an1b,non,41.0,oui
+classique,002/20,100 mci,oum el bouaki,3.0,non,nodule,,,TC,tt,tirads 5,mariée,F,central,oui,oui,simples,sans,hmwbugxr,droit,,oui,40.0,non
+vésiculaire,003/20,100 mci,médea,1.0,oui,goitre,unifocal,4.1 cm,TC,tt,tirads 5,marié,H,latéral,non,non,simples,sans,boegflwc,droit,pt4,non,49.0,non
+classique,004/20,,msila,,oui,,multifocal,1 cm,cytoponction,tt,,célibataire,H,central,oui,non,simples,sans,cudjqojd,droit et gauche,pt1bn1b,non,34.0,oui
+classique,005/20,,alger,,non,gmn,multifocal,,TC,tt,tirads 3,mariée,F,récurrentiel,non,non,simples,sans,wqgawjjv,droit et gauche,pt1bn,non,29.0,non
+classique,006/20,,médea,3.0,non,thyroidite lymphocytaire,multifocal,1 cm,,tt,tirads 4,mariée,F,,non,non,simples,sans,dilzbkgr,gauche,pt1a,non,34.0,non
+vésiculaire,007/20,100 mci,boumerdas,,non,,,,,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,sans,sygxldoi,,pt1bn1b,non,45.0,non
+microcarcinome,008/20,50 mci,alger,4.0,non,nodule,multifocal,0.7 mm,cytoponction,tt,tirads 4,mariée,F,sans,non,non,simples,sans,pezcpige,droit et gauche,pt1a,non,40.0,non
+vésiculaire,009/20,100 mci,djelfa,,non,goitre,unifocal,18 mm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,zfteiosh,gauche,pt1b,non,43.0,non
+classique,010/20,,alger,,non,gmn,multifocal,2 cm,TC,tt,tirads 5,mariée,F,central,non,non,dysphonie,sans,gijfduii,droit et gauche,pt1b,non,45.0,non
+classique,011/20,,alger,1.0,oui,thyroidite lymphocytaire,multifocal,2 cm,cytoponction,tt,tirads 5,mariée,F,sans,non,non,simples,sans,lweyzgmq,droit,pt1b,non,52.0,non
+classique,012/20,,blida,,non,,,12 mm,,tt,,mariée,F,central,non,non,dysphonie + dyspnée,sans,kwubscgg,,pt1b,non,40.0,non
+classique,013/20,50 mci,chlef,1.0,non,thyroidite lymphocytaire,multifocal,11 mm,EC,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,kjrvqdiq,droit et gauche,pt1b,non,36.0,non
+classique,014/20,50 mci,tizi ouzou,1.0,non,nodule,unifocal,18 mm,cytoponction,tt,tirads 4,mariée,F,sans,non,non,simples,sans,vvkbghxz,isthme,pt1a,non,53.0,non
+microcarcinome,015/20,,blida,6.0,non,nodule,multifocal,7 mm,cytoponction,tt,tirads 4,mariée,F,sans,non,non,simples,sans,yrvgwujg,droit,pt1b,non,68.0,non
+vésiculaire,016/20,50 mci,sétif,3.0,non,gmn,,,TC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,pgndhatl,,pt1b,non,59.0,non
+vésiculaire,017/20,,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,ohvzowii,droit,pt3a,non,64.0,non
+solide,018/20,100 mci,bouira,1.0,non,nodule,,8 cm,TC,tt,tirads 4,marié,F,sans,non,oui,simples,decendant,vumrtxpt,droit,pt3a,non,74.0,non
+classique,019/20,150 mci,médea,3.0,non,goitre,,13 mm,EC,tt,tirads 5,marié,F,central,oui,non,simples,paternel,yvdlmlxu,droit,pt1b,non,40.0,non
+classique,020/20,100 mci,béjaia,1.0,non,goitre,,45 mm,EC,tt,tirads 5,mariée,F,latéral,oui,non,simples,sans,imrvrowj,droit,pt2,oui,44.0,non
+classique,021/20,100 mci,médea,,oui,goitre,unifocal,17 mm,TC,tt,tirads 5,mariée,F,central,non,non,simples,maternel,xenewtue,droit,pt1bn1b,oui,30.0,oui
+classique,022/20,100 mci,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,sans,issoujsq,droit,pt1an1b,non,37.0,non
+microcarcinome,023/20,100 mci,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,paternel,plqbpisk,droit et gauche,pt1a,non,40.0,non
+vésiculaire,024/20,50 mci,tizi ouzou,,non,nodule,unifocal,2 cm,DF,tt,tirads 3,célibataire,F,bilatéral,non,non,simples,maternel,gixwxhzs,droit,pt1b,non,15.0,non
+classique,025/20,90 mci,blida,2.0,non,nodule,bifocal,8.3 mm,TC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,bewoprcw,droit,pt2,non,35.0,non
+vésiculaire,026/20,50 mci,alger,1.0,non,nodule,unifocal,1.4 cm,,lobectomie,tirads 5,,F,sans,non,non,simples,,reroseaf,gauche,pt1b,non,41.0,non
+classique,027/20,,bba,1.0,non,nodule,,17 mm,TC,tt,tirads 5,mariée,F,central,non,non,simples,sans,dutxxabv,droit,pt1bn1b,non,46.0,oui
+vésiculaire,028/20,100 mci,ourgla,,oui,gmn,,25 mm,EC,tt,tirads 5,veuve,F,sans,non,oui,simples,sans,ycotaqzs,droit,pt2nxm1,oui,73.0,oui
+vésiculaire,029/20,100 mci,alger,1.0,oui,nodule,,9.8 mm,EC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,kojnlnde,droit,pt1a,non,22.0,non
+microcarcinome,030/20,100 mci,alger,1.0,non,nodule,,7 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,qfjyvcov,droit,pt1an1a,non,35.0,oui
+oncocytaire,031/20,50 mci,médea,,non,nodule,,17 mm,TC,tt,tirads 6,célibataire,F,récurrentiel,non,non,simples,sans,ohvzowii,droit et gauche,pt1b,non,47.0,non
+vésiculaire,032/20,100 mci,tizi ouzou,1.0,oui,nodule,,1.5 cm,DF,tt,tirads 5,marié,F,sans,oui,non,simples,maternel,gzrgwytq,droit,pt1bn1b,non,54.0,oui
+classique,032/20,100 mci,alger,3.0,non,gmn,unifocal,3 cm,TC,tt,tirads 4,marié,H,central,non,non,simples,maternel,jcqvgnbn,droit et isthme,pt2n1a,non,36.0,non
+vésiculaire,033/20,100 mci,alger,,oui,nodule,multifocal,17 mm,TC,tt,tirads 5,marié,H,central,non,non,simples,sans,omkgjhwr,droit,pt1bn1b,non,27.0,oui
+classique,034/20,100 mci,alger,1.0,non,nodule,,1.2 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,maternel,ojtstbnw,gauche,pt1b,non,34.0,non
+microcarcinome,035/20,50 mci,alger,,non,gmn,bifocal,15 mm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,sans,ugweuyiv,gauche,pt1b,non,42.0,non
+classique,036/20,50 mci,tiaret,1.0,non,nodule,unifocal,1.3 cm,DF,tt,tirads 5,célibataire,F,sans,non,non,simples,paternel,hlvgrlgl,gauche,pt1b,non,25.0,non
+classique,037/20,100 mci,alger,1.0,non,gmn,bifocal,1.5 cm,EC,tt,tirads 5,mariée,F,central,non,non,simples,paternel,sgcgnkvk,droit et isthme,pt1an1a,non,31.0,non
+classique,038/20,100 mci,médea,,non,nodule,,0.9 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,maternel,fevbsmpm,gauche,pt1an1b,non,33.0,non
+vésiculaire,039/20,100 mci,béjaia,,non,nodule,,5 cm,EC,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,qpxkonzc,droit,pt1b,non,31.0,non
+classique,040/20,100 mci,tizi ouzou,,oui,gmn,,1.5 cm,TC,tt,tirads 5,célibataire,F,sans,non,non,simples,maternel,jkaabers,droit,pt1b,non,33.0,non
+microcarcinome,041/20,100 mci,béjaia,2.0,non,gmn,multifocal,8 mm,EC,tt,tirads 4,mariée,H,sans,non,non,simples,maternel,kpjpjycx,droit et gauche,pt1a,non,40.0,non
+oncocytaire,042/20,100 mci,alger,1.0,non,nodule,unifocal,52 mm,DF,tt,tirads 5,marié,F,central,non,non,simples,sans,hslcktit,droit,pt3bn1a,non,49.0,non
+vésiculaire,043/20,100 mci,alger,3.0,non,gmn,multifocal,2 cm,TC,tt,tirads 5,célibataire,H,central,non,non,simples,sans,kaklmihn,droit et gauche,pt2n1bm1,non,46.0,oui
+vésiculaire,044/20,100 mci,annaba,2.0,non,nodule,bifocal,25 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,yquoobfa,droit et isthme,pt1a,non,27.0,non
+classique,045/20,100 mci,blida,2.0,non,nodule,,1 cm,DF,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,fszgujcg,droit,pt1an1,non,48.0,oui
+microcarcinome,046/20,100 mci,alger,2.0,non,nodule,bifocal,9 mm,EC,tt,tirads 4,mariée,F,central,non,non,simples,paternel,ihfqaewi,droit et gauche,pt1an1a,non,42.0,oui
+classique,047/20,100 mci,ghardia,2.0,non,goitre,,1 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,ijnfhgis,droit,pt1bn1b,non,28.0,oui
+classique,048/20,100 mci,alger,1.0,non,nodule,unifocal,1.7 cm,DF,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,sans,sgmzgaaw,gauche,pt1bn1,non,59.0,oui
+whartin like,049/20,100 mci,batna,1.0,non,nodule,,1.5 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,frère,xavziphn,gauche,pt1bn1b,non,39.0,oui
+vésiculaire,050/20,100 mci,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,tt,tirads 3,mariée,F,sans,non,oui,simples,paternel,uxzlfsdo,gauche,pt1a,non,29.0,non
+vésiculaire,051/20,100 mci,alger,3.0,non,gmn,,15 mm,TC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,cxwpkkrw,droit,pt2,non,42.0,non
+classique,052/20,100 mci,ghardia,2.0,non,nodule,,1.8 cm,TC,tt,tirads 3,célibataire,F,récurrentiel,non,non,simples,sans,dujardtf,droit,pt1bn1b,non,32.0,oui
+classique,053/20,100 mci,msila,2.0,non,nodule,,0.5 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,pyzhhzrp,isthme,pt1an1,non,48.0,oui
+vésiculaire,054/20,,djelfa,2.0,non,nodule,bifocal,2 cm,TC,tt,tirads 5,marié,F,sans,non,non,simples,sans,qhhvdlyx,droit et gauche,pt2a,non,45.0,non
+vésiculaire,055/20,100 mci,djelfa,1.0,non,nodule,,1.5 cm,ADP,tt,tirads 5,marié,F,sans,non,oui,simples,sans,hqdvggnn,droit,pt3,non,48.0,non
+classique,056/20,,msila,1.0,non,nodule,,4 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,xvqfmnmf,droit,pt1b,non,38.0,non
+,057/20,100 mci,,,,,,,,,,,,,,,simples,,tengqaqp,,,,,
+solide,058/20,,bouira,1.0,non,nodule,,8 cm,TC,tt,tirads 4,marié,F,sans,non,oui,simples,decendant,umqdpvel,droit,pt3a,non,74.0,non
+classique,059/20,150 mci,médea,3.0,non,goitre,,13 mm,EC,tt,tirads 5,marié,F,central,oui,non,simples,paternel,mubthbym,droit,pt1b,non,40.0,non
+classique,060/20,100 mci,béjaia,1.0,non,goitre,,45 mm,EC,tt,tirads 5,mariée,F,latéral,oui,non,simples,sans,uiwymjqm,droit,pt2,oui,44.0,non
+classique,061/20,100 mci,médea,,non,goitre,unifocal,17 mm,TC,tt,tirads 5,mariée,H,central,non,non,simples,maternel,lqiqnrps,droit,pt1bn1b,oui,30.0,oui
+classique,062/20,100 mci,tizi ouzou,8.0,non,nodule,unifocal,0.2 cm,DF,tt,tirads 5,mariée,H,central,non,non,simples,sans,rouejwud,droit,pt1an1b,non,37.0,non
+classique,063/20,100 mci,béjaia,1.0,non,goitre,,45 mm,EC,tt,tirads 5,mariée,H,latéral,oui,non,simples,sans,wvzkapao,droit,pt2,oui,44.0,non
+classique,064/20,100 mci,médea,,oui,goitre,unifocal,17 mm,TC,tt,tirads 5,mariée,,central,non,non,simples,maternel,tengqaqp,droit,pt1bn1b,oui,30.0,oui
+classique,065/20,100 mci,tizi ouzou,8.0,oui,nodule,unifocal,0.2 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,sans,iomhtjku,droit,pt1an1b,non,37.0,non
+microcarcinome,066/20,100 mci,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,paternel,bemxeqte,droit et gauche,pt1a,non,40.0,non
+vésiculaire,067/20,50 mci,tizi ouzou,,non,nodule,unifocal,2 cm,DF,tt,tirads 3,célibataire,F,bilatéral,non,non,simples,maternel,rrmufctt,droit,pt1b,non,15.0,non
+classique,068/20,90 mci,blida,2.0,non,nodule,bifocal,8.3 mm,TC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,qslkdhhy,droit,pt2,non,35.0,non
+vésiculaire,069/20,100 mci,béjaia,4.0,non,gmn,,1.2 cm,TC,tt,tirads 4,célibataire,F,central,non,non,simples,sans,wxmltfqq,droit et gauche,pt3bn1,non,20.0,non
+classique,070/20,100 mci,bba,1.0,non,nodule,,17 mm,TC,tt,tirads 5,mariée,F,central,non,non,simples,sans,xthnrqzl,droit,pt1bn1b,non,46.0,oui
+vésiculaire,071/20,100 mci,ourgla,,oui,gmn,,25 mm,EC,tt,tirads 5,veuve,F,sans,non,oui,simples,sans,mqbuhkra,droit,pt2nxm1,oui,73.0,oui
+vésiculaire,072/20,100 mci,alger,1.0,oui,nodule,,9.8 mm,EC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,ceshuvse,droit,pt1a,non,22.0,non
+microcarcinome,073/20,100 mci,alger,1.0,non,nodule,,7 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,wblczjny,droit,pt1an1a,non,35.0,oui
+vésiculaire,074/20,100 mci,alger,1.0,oui,nodule,,12 mm,TC,tt,tirads 5,célibataire,F,sans,oui,non,simples,sœur,auczcxju,gauche,pt1b,non,28.0,non
+vésiculaire,075/20,100 mci,tizi ouzou,1.0,oui,nodule,,1.5 cm,DF,tt,tirads 5,marié,F,sans,oui,non,simples,maternel,rcrkvzmt,droit,pt1bn1b,non,54.0,oui
+classique,076/20,100 mci,alger,3.0,non,gmn,unifocal,3 cm,TC,tt,tirads 4,marié,F,central,non,non,simples,maternel,nmmwxqpy,droit et isthme,pt2n1a,non,36.0,non
+vésiculaire,077/20,100 mci,alger,,oui,nodule,multifocal,17 mm,TC,tt,tirads 5,marié,F,central,non,non,simples,sans,tgdjacqb,droit,pt1bn1b,non,27.0,oui
+classique,078/20,100 mci,alger,1.0,non,nodule,,1.2 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,maternel,hqopxnmo,gauche,pt1b,non,34.0,non
+microcarcinome,079/20,50 mci,alger,,non,gmn,bifocal,15 mm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,sans,wqrhorbv,gauche,pt1b,non,42.0,non
+microcarcinome,079/20,50 mci,tipaza,1.0,oui,nodule,unifocal,9 mm,ADP,tt,tirads 5,célibataire,H,sans,non,non,simples,sans,wzhsrmsq,droit,pt1an1b,non,24.0,oui
+vésiculaire,080/20,50 mci,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,tt,tirads 5,marié,H,sans,non,non,simples,sœur,gqndljdh,gauche,pt2,non,46.0,non
+classique,081/20,100 mci,alger,1.0,non,goitre,,1.5 cm,EC,tt,tirads 5,mariée,H,sans,non,non,simples,sans,omykkmsz,droit et gauche,pt1b,non,44.0,non
+vésiculaire,082/20,100 mci,bouira,1.0,oui,gmn,unifocal,5 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sœur,iysysfbj,droit,pt3,non,76.0,non
+vésiculaire,083/20,100 mci,bouira,1.0,non,nodule,unifocal,15 mm,EC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,xlhfqswi,gauche,pt1b,non,57.0,non
+vésiculaire,084/20,50 mci,ain defla,,non,gmn,unifocal,2 cm,TC,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,dalwnklv,isthme,pt1b,non,40.0,non
+classique,085/20,100 mci,alger,,non,nodule,,2.8 cm,EC,tt,tirads 3,mariée,F,sans,non,non,simples,sans,teqoudcd,droit,pt2,non,48.0,non
+classique,086/20,50 mci,médea,2.0,non,nodule,unifocal,1 cm,DF,tt,tirads 4,célibataire,F,central,non,non,simples,sans,pxmqcnpk,gauche,pt1bn1,non,35.0,oui
+vésiculaire,087/20,100 mci,sétif,,non,gmn,,,EC,tt,tirads 6,marié,H,sans,non,oui,simples,sans,jnrkzjum,,,non,77.0,oui
+classique,088/20,100 mci,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,tt,tirads 4,marié,F,sans,non,non,simples,maternel,sbjkloca,droit,pt3a,non,53.0,non
+classique,089/20,100 mci,tizi ouzou,3.0,oui,gmn,multifocal,4 cm,EC,tt,tirads 6,marié,H,sans,oui,non,simples,sœur,jscewmuv,droit et gauche,pt4a,oui,53.0,non
+oncocytaire,090/20,100 mci,alger,1.0,non,nodule,unifocal,52 mm,DF,tt,tirads 5,marié,F,central,non,non,simples,sans,ggqlwysc,droit,pt3bn1a,non,49.0,non
+vésiculaire,091/20,100 mci,alger,3.0,non,gmn,multifocal,2 cm,TC,tt,tirads 5,célibataire,H,central,non,non,simples,sans,juinuwtf,droit et gauche,pt2n1bm1,non,46.0,oui
+vésiculaire,092/20,100 mci,annaba,2.0,non,nodule,bifocal,25 mm,TC,tt,tirads 5,célibataire,H,central,non,non,simples,sans,fplnolxo,droit et isthme,pt1a,non,27.0,non
+classique,093/20,100 mci,blida,2.0,non,nodule,,1 cm,DF,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,scsnbsqr,droit,pt1an1,non,48.0,oui
+microcarcinome,094/20,100 mci,alger,2.0,non,nodule,bifocal,9 mm,EC,tt,tirads 4,mariée,H,central,non,non,simples,paternel,tzxydmxw,droit et gauche,pt1an1a,non,42.0,oui
+classique,095/20,50 mci,msila,1.0,non,gmn,,2.3 cm,EC,tt,tirads 5,mariée,F,central,non,non,simples,sans,hgvknxiz,gauche,pt2,non,48.0,oui
+classique,096/20,100 mci,alger,1.0,non,nodule,unifocal,1.7 cm,DF,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,sans,pobjffvk,gauche,pt1bn1,non,59.0,oui
+whartin like,097/20,100 mci,batna,1.0,oui,nodule,,1.5 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,frère,oosbiyqf,gauche,pt1bn1b,non,39.0,oui
+vésiculaire,098/20,100 mci,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,tt,tirads 3,mariée,F,sans,non,oui,simples,paternel,uzdgbzmp,gauche,pt1a,non,29.0,non
+vésiculaire,099/20,100 mci,alger,3.0,non,gmn,,15 mm,TC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,bcrkigvc,droit,pt2,non,42.0,non
+classique,100/20,100 mci,ghardia,2.0,non,nodule,,1.8 cm,TC,tt,tirads 3,célibataire,F,récurrentiel,non,non,simples,sans,mrcxrhfz,droit,pt1bn1b,non,32.0,oui
+classique,101/20,100 mci,msila,2.0,non,nodule,,0.5 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,rxuivpvs,isthme,pt1an1,non,48.0,oui
+vésiculaire,102/20,,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,tt,tirads 3,mariée,F,sans,non,oui,simples,paternel,ummjxfuy,gauche,pt1a,non,29.0,non
+vésiculaire,103/20,100 mci,alger,3.0,non,gmn,,15 mm,TC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,plogylaw,droit,pt2,non,42.0,non
+classique,104/20,100 mci,ghardia,2.0,non,nodule,,1.8 cm,TC,tt,tirads 3,célibataire,F,récurrentiel,non,non,simples,sans,qoqsgakj,droit,pt1bn1b,non,32.0,oui
+classique,105/20,100 mci,msila,2.0,non,nodule,,0.5 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,wmjqauwj,isthme,pt1an1,non,48.0,oui
+classique,106/20,,blida,1.0,non,thyroidite lymphocytaire,unifocal,2 cm,cytoponction,tt,,mariée,F,central,non,non,dysphonie,maternel,vrinzyar,droit,pt1b,non,31.0,non
+classique,107/20,,tizi ouzou,1.0,non,gmn,unifocal,8 mm,TC,loboisthmectomie,,célibataire,F,sans,non,non,simples,sans,ilquahon,droit,pt3,non,25.0,non
+classique,108/20,,tipaza,3.0,non,gmn,unifocal,6.5 cm,EC,tt,tirads 5,marié,H,latéral,non,non,diplégie,sans,fpvcdyhb,gauche,pt3a,non,62.0,oui
+vésiculaire,109/20,,alger,1.0,non,thyroidite lymphocytaire,,0.8 cm,cytoponction,loboisthmectomie,tirads 4,célibataire,F,,non,non,simples,sans,ymhjsvtg,gauche,pt1a,non,21.0,oui
+oncocytaire,110/20,,alger,2.0,non,gmn,bifocal,11 mm,TC,tt,tirads 4,mariée,F,central,non,non,simples,sans,jijignmq,droit,pt1b,non,38.0,oui
+classique,111/20,,tizi ouzou,4.0,non,gmn,,1.7 cm,TC,tt,tirads 5,mariée,F,,non,non,simples,sœur,jyolyima,droit et gauche,pt1b,non,54.0,non
+microcarcinome,112/20,,alger,2.0,non,goitre,,35 mm,DF,tt,tirads 5,mariée,F,central,non,non,simples,sans,oeoyaxda,droit et gauche,pt1b,non,42.0,non
+microcarcinome,113/20,,tizi ouzou,1.0,non,goitre,unifocal,6 mm,EC,tt,,mariée,F,central,non,non,simples,sans,xjdhhgau,droit,pt1a,non,27.0,non
+classique,114/20,,alger,1.0,non,nodule,unifocal,1.3 cm,EC,tt,tirads 5,marié,H,,non,non,simples,sans,duhvatjf,gauche,pt1b,non,67.0,non
+classique,115/20,,,1.0,non,adp,bifocal,11.8 mm,EC,tt,tirads 5,mariée,F,,non,non,simples,sœur,uieqtjlc,droit et gauche,pt1b,non,53.0,non
+oncocytaire,116/20,,tipaza,1.0,non,nodule,unifocal,34 mm,EC,tt,tirads 4,marié,H,central,non,non,simples,sans,apuwsnzv,gauche,pt4a,non,81.0,oui
+classique,117/20,,alger,1.0,non,thyroidite lymphocytaire,bifocal,1.7 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,uqgarpcs,droit,pt1b,non,44.0,oui
+trabéculaire,118/20,,blida,1.0,non,nodule,invasif,21 mm,cytoponction,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,zmhsjguk,gauche,pt2,non,27.0,oui
+classique,119/20,,médea,1.0,non,gmn,unifocal,,DF,tt,tirads 5,célibataire,H,central,non,non,dysphonie,sans,qcqevort,gauche,pt1bn1a,non,34.0,non
+,120/20,,,,,,,,,,,,F,,,,,,dmxpuqpn,,,,,
+microcarcinome,121/20,,alger,2.0,non,gmn,multifocal,4 mm,EC,tt,tirads 4,mariée,F,sans,non,non,simples,maternel,yiitbavd,droit et gauche,pt1a,non,39.0,non
+vésiculaire,122/20,,alger,1.0,non,,unifocal,5 cm,,loboisthmectomie,,célibataire,F,sans,non,non,simples,sans,qezppjna,,pt3,non,24.0,non
+classique,123/20,,médea,5.0,non,gmn,bifocal,1 cm,TC,tt,tirads 5,célibataire,H,sans,non,non,simples,sans,vftdiwqf,droit et gauche,pt1a,non,37.0,non
+classique,124/20,,djelfa,2.0,non,goitre nodulaire,bifocal,2 cm,TC,tt,tirads 5,marié,H,sans,non,non,simples,sœur,nersyjuf,droit et gauche,pt2a,non,44.0,oui
+vésiculaire,125/20,,blida,2.0,non,goitre,,19 mm,EC,tt,tirads 5,mariée,F,récurrentiel,non,non,simples,sans,lspzmgjs,droit,pt1bn1a,non,28.0,oui
+classique,126/20,,alger,3.0,non,goitre,multifocal,0.9 cm,EC,tt,tirads 5,célibataire,H,central,non,non,simples,sans,xfzkxjye,droit et gauche,pt1bn1a,non,43.0,non
+vésiculaire,127/20,100 mci,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,tt,tirads 5,marié,H,sans,non,non,simples,sans,vcviqyjh,droit et gauche,pt2a,non,45.0,non
+vésiculaire,128/20,,djelfa,1.0,non,nodule,,1.5 cm,ADP,tt,tirads 5,marié,F,sans,non,oui,simples,sans,hferswmp,droit,pt3,non,48.0,non
+classique,129/20,100 mci,msila,1.0,oui,nodule,,4 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,xcggqunb,droit,pt1b,non,38.0,non
+vésiculaire,130/20,100 mci,msila,2.0,oui,nodule,unifocal,3.5 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,qtemhhsc,droit,pt3a,non,64.0,non
+classique,131/20,100 mci,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,tt,tirads 4,marié,F,sans,non,non,simples,maternel,qhddwxmf,droit,pt3a,non,53.0,non
+classique,132/20,100 mci,tizi ouzou,3.0,non,gmn,multifocal,4 cm,EC,tt,tirads 6,marié,F,sans,oui,non,simples,sœur,exyfqsrt,droit et gauche,pt4a,oui,53.0,non
+oncocytaire,133/20,100 mci,alger,1.0,non,nodule,unifocal,52 mm,DF,tt,tirads 5,marié,F,central,non,non,simples,sans,sjbnkkpk,droit,pt3bn1a,non,49.0,non
+oncocytaire,134/20,100 mci,tipaza,1.0,non,nodule,unifocal,3 cm,ADP,tt,tirads 5,célibataire,F,central,oui,non,,sans,fjfqtxpx,gauche,pt2n1b,oui,36.0,oui
+classique,135/20,100 mci,souk ahras,3.0,non,nodule,unifocal,2.5 cm,TC,tt,tirads 6,célibataire,F,latéral,non,non,simples,maternel,ywpocjsr,droit,pt2n1b,non,32.0,non
+classique,136/20,100 mci,béjaia,1.0,non,nodule,unifocal,0.9 mm,TC,tt,tirads 5,mariée,F,central,oui,non,simples,paternel,cmlvsnyl,gauche,pt1bn1a,non,46.0,oui
+vésiculaire,137/20,100 mci,sétif,1.0,non,nodule,bifocal,1 cm,TC,tt,tirads 3,célibataire,F,central,non,non,simples,sans,epcwuuvv,droit,pt1an1b,non,37.0,non
+microcarcinome,138/20,50 mci,tipaza,1.0,non,nodule,unifocal,9 mm,ADP,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,qufmsxej,droit,pt1an1b,non,24.0,oui
+vésiculaire,139/20,100 mci,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,tt,tirads 5,marié,F,sans,non,non,simples,sœur,vibilpkn,gauche,pt2,non,46.0,non
+classique,140/20,100 mci,alger,1.0,non,goitre,,1.5 cm,EC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,msrtjsfl,droit et gauche,pt1b,non,44.0,non
+vésiculaire,141/20,100 mci,bouira,1.0,non,gmn,unifocal,5 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sœur,vwhsazge,droit,pt3,non,76.0,non
+vésiculaire,142/20,50 mci,bouira,1.0,non,nodule,unifocal,15 mm,EC,tt,tirads 4,mariée,H,sans,non,non,simples,sans,njkarjls,gauche,pt1b,non,57.0,non
+vésiculaire,143/20,100 mci,ain defla,,non,gmn,unifocal,2 cm,TC,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,hqyhujdf,isthme,pt1b,non,40.0,non
+classique,144/20,50 mci,alger,,non,nodule,,2.8 cm,EC,tt,tirads 3,mariée,H,sans,non,non,simples,sans,wayvbglp,droit,pt2,non,48.0,non
+classique,145/20,100 mci,médea,2.0,non,nodule,unifocal,1 cm,DF,tt,tirads 4,célibataire,F,central,non,non,simples,sans,dtpddqvl,gauche,pt1bn1,non,35.0,oui
+vésiculaire,146/20,100 mci,sétif,,non,gmn,,,EC,tt,tirads 6,marié,H,sans,non,oui,simples,sans,ndlukqmw,,,non,77.0,oui
+classique,147/20,100 mci,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,tt,tirads 4,marié,F,sans,non,non,simples,maternel,zlfuvtzl,droit,pt3a,non,53.0,non
+classique,148/20,100 mci,tizi ouzou,3.0,non,gmn,multifocal,4 cm,EC,tt,tirads 6,marié,F,sans,oui,non,simples,sœur,cunrhwfg,droit et gauche,pt4a,oui,53.0,non
+oncocytaire,149/20,100 mci,alger,1.0,non,nodule,unifocal,52 mm,DF,tt,tirads 5,marié,H,central,non,non,simples,sans,jdultepi,droit,pt3bn1a,non,49.0,non
+vésiculaire,150/20,100 mci,alger,3.0,non,gmn,multifocal,2 cm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,igtpngpg,droit et gauche,pt2n1bm1,non,46.0,oui
+vésiculaire,151/20,100 mci,annaba,2.0,non,nodule,bifocal,25 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,ortyxjce,droit et isthme,pt1a,non,27.0,non
+classique,151/20,100 mci,blida,2.0,non,nodule,,1 cm,DF,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,khvrvoyk,droit,pt1an1,non,48.0,oui
+classique,152/20,50 mci,alger,2.0,non,gmn,multifocal,7 mm,EC,tt,tirads 4,mariée,F,sans,non,non,,sans,fgpkbste,droit et gauche,pt1a,non,60.0,non
+classique,153/20,100 mci,ghardia,2.0,non,goitre,,1 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,pgdjuwfv,droit,pt1bn1b,non,28.0,oui
+classique,154/20,100 mci,alger,1.0,non,nodule,unifocal,1.7 cm,DF,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,sans,quipylwz,gauche,pt1bn1,non,59.0,oui
+whartin like,155/20,100 mci,batna,1.0,non,nodule,,1.5 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,frère,byycvaxt,gauche,pt1bn1b,non,39.0,oui
+vésiculaire,156/20,100 mci,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,tt,tirads 3,mariée,F,sans,non,oui,simples,paternel,iwzbckqh,gauche,pt1a,non,29.0,non
+vésiculaire,157/20,100 mci,alger,3.0,non,gmn,,15 mm,TC,tt,tirads 4,célibataire,H,sans,non,non,simples,sans,zkrkqpoq,droit,pt2,non,42.0,non
+classique,158/20,100 mci,ghardia,2.0,non,nodule,,1.8 cm,TC,tt,tirads 3,célibataire,F,récurrentiel,non,non,simples,sans,tklrpsey,droit,pt1bn1b,non,32.0,oui
+classique,159/20,,msila,2.0,non,nodule,,0.5 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,wnhlhomd,isthme,pt1an1,non,48.0,oui
+vésiculaire,160/20,100 mci,djelfa,2.0,non,nodule,bifocal,2 cm,TC,tt,tirads 5,marié,F,sans,non,non,simples,sans,dtfidylt,droit et gauche,pt2a,non,45.0,non
+vésiculaire,161/20,,djelfa,1.0,non,nodule,,1.5 cm,ADP,tt,tirads 5,marié,F,sans,non,oui,simples,sans,qajcdybo,droit,pt3,non,48.0,non
+classique,162/20,100 mci,msila,1.0,non,nodule,,4 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,siqqzhvm,droit,pt1b,non,38.0,non
+vésiculaire,163/20,100 mci,msila,2.0,non,nodule,unifocal,3.5 cm,EC,tt,tirads 5,marié,,sans,non,non,simples,sans,tengqaqp,droit,pt3a,non,64.0,non
+solide,164/20,150 mci,bouira,1.0,non,nodule,,8 cm,TC,tt,tirads 4,marié,F,sans,non,oui,simples,decendant,dhhfqnpa,droit,pt3a,non,74.0,non
+classique,165/20,100 mci,médea,3.0,non,goitre,,13 mm,EC,tt,tirads 5,marié,F,central,oui,non,simples,paternel,edkiwsku,droit,pt1b,non,40.0,non
+classique,166/20,100 mci,béjaia,1.0,non,goitre,,45 mm,EC,tt,tirads 5,mariée,FF,latéral,oui,non,simples,sans,qpqyrcsn,droit,pt2,oui,44.0,non
+classique,167/20,100 mci,médea,,non,goitre,unifocal,17 mm,TC,tt,tirads 5,mariée,F,central,non,non,simples,maternel,dnhnlduv,droit,pt1bn1b,oui,30.0,oui
+classique,168/20,100 mci,tizi ouzou,8.0,non,nodule,unifocal,0.2 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,sans,cbzrjkju,droit,pt1an1b,non,37.0,non
+microcarcinome,169/20,50 mci,tizi ouzou,2.0,non,gmn,multifocal,0.7 cm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,paternel,pwszsxjj,droit et gauche,pt1a,non,40.0,non
+vésiculaire,170/20,90 mci,tizi ouzou,,non,nodule,unifocal,2 cm,DF,tt,tirads 3,célibataire,F,bilatéral,non,non,simples,maternel,sygeaecw,droit,pt1b,non,15.0,non
+classique,171/20,100 mci,blida,2.0,non,nodule,bifocal,8.3 mm,TC,tt,tirads 4,mariée,,sans,non,non,simples,sans,tengqaqp,droit,pt2,non,35.0,non
+vésiculaire,172/20,100 mci,béjaia,4.0,non,gmn,,1.2 cm,TC,tt,tirads 4,célibataire,H,central,non,non,simples,sans,nbjbsmto,droit et gauche,pt3bn1,non,20.0,non
+classique,173/20,100 mci,bba,1.0,non,nodule,,17 mm,TC,tt,tirads 5,mariée,F,central,non,non,simples,sans,qpjqvznj,droit,pt1bn1b,non,46.0,oui
+vésiculaire,174/20,100 mci,ourgla,,non,gmn,,25 mm,EC,tt,tirads 5,veuve,F,sans,non,oui,simples,sans,jnmdlypr,droit,pt2nxm1,oui,73.0,oui
+vésiculaire,175/20,100 mci,alger,1.0,non,nodule,,9.8 mm,EC,tt,tirads 4,célibataire,,sans,non,non,simples,sans,tengqaqp,droit,pt1a,non,22.0,non
+microcarcinome,176/20,100 mci,alger,1.0,non,nodule,,7 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,ltdenjsu,droit,pt1an1a,non,35.0,oui
+vésiculaire,176/20,100 mci,alger,1.0,non,nodule,,12 mm,TC,tt,tirads 5,célibataire,F,sans,oui,non,simples,sœur,pbhlfdzc,gauche,pt1b,non,28.0,non
+vésiculaire,177/20,100 mci,tizi ouzou,1.0,non,nodule,,1.5 cm,DF,tt,tirads 5,marié,F,sans,oui,non,simples,maternel,qvytatpm,droit,pt1bn1b,non,54.0,oui
+classique,177/20,100 mci,alger,3.0,non,gmn,unifocal,3 cm,TC,tt,tirads 4,marié,F,central,non,non,simples,maternel,yskxzocl,droit et isthme,pt2n1a,non,36.0,non
+vésiculaire,178/20,100 mci,alger,,non,nodule,multifocal,17 mm,TC,tt,tirads 5,marié,F,central,non,non,simples,sans,wxuezmid,droit,pt1bn1b,non,27.0,oui
+classique,179/20,50 mci,alger,1.0,non,nodule,,1.2 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,maternel,tkgmfyqg,gauche,pt1b,non,34.0,non
+microcarcinome,180/20,50 mci,alger,,non,gmn,bifocal,15 mm,TC,tt,tirads 3,mariée,F,sans,non,non,simples,sans,edqgydkc,gauche,pt1b,non,42.0,non
+classique,181/20,100 mci,tiaret,1.0,non,nodule,unifocal,1.3 cm,DF,tt,tirads 5,célibataire,F,sans,non,non,simples,paternel,kmbtofrd,gauche,pt1b,non,25.0,non
+classique,182/20,100 mci,alger,1.0,non,gmn,bifocal,1.5 cm,EC,tt,tirads 5,mariée,H,central,non,non,simples,paternel,moepvnfx,droit et isthme,pt1an1a,non,31.0,non
+classique,183/20,100 mci,médea,,non,nodule,,0.9 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,maternel,qvqqmyzz,gauche,pt1an1b,non,33.0,non
+vésiculaire,184/20,100 mci,béjaia,,non,nodule,,5 cm,EC,tt,tirads 5,mariée,F,sans,oui,non,simples,sans,mwcvldse,droit,pt1b,non,31.0,non
+classique,185/20,100 mci,tizi ouzou,,oui,gmn,,1.5 cm,TC,tt,tirads 5,célibataire,F,sans,non,non,simples,maternel,sgmzgaaw,droit,pt1b,non,33.0,non
+microcarcinome,186/20,100 mci,béjaia,2.0,non,gmn,multifocal,8 mm,EC,tt,tirads 4,mariée,F,sans,non,non,simples,maternel,apgyhaqp,droit et gauche,pt1a,non,40.0,non
+classique,187/20,100 mci,blida,2.0,non,nodule,bifocal,8.3 mm,TC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,xguoejzm,droit,pt2,non,35.0,non
+vésiculaire,188/20,100 mci,béjaia,4.0,non,gmn,,1.2 cm,TC,tt,tirads 4,célibataire,H,central,non,non,simples,sans,yisyuikb,droit et gauche,pt3bn1,non,20.0,non
+classique,189/20,100 mci,blida,2.0,non,nodule,bifocal,8.3 mm,TC,tt,tirads 4,mariée,F,sans,non,non,simples,sans,znwoltup,droit,pt2,non,35.0,non
+microcarcinome,190/20,100 mci,sétif,1.0,non,nodule,unifocal,1 cm,TC,tt,tirads 4,mariée,F,,non,non,,sans,mqbuhkra,isthme,pt1a,non,44.0,
+classique,191/20,100 mci,béjaia,1.0,non,nodule,unifocal,0.9 mm,TC,tt,tirads 5,mariée,F,central,oui,non,simples,paternel,uzealihf,gauche,pt1bn1a,non,46.0,oui
+vésiculaire,192/20,100 mci,sétif,1.0,non,nodule,bifocal,1 cm,TC,tt,tirads 3,célibataire,H,central,non,non,simples,sans,lptzvzuy,droit,pt1an1b,non,37.0,non
+microcarcinome,193/20,50 mci,tipaza,1.0,oui,nodule,unifocal,9 mm,ADP,tt,tirads 5,célibataire,F,sans,non,non,simples,sans,lvlwuajl,droit,pt1an1b,non,24.0,oui
+vésiculaire,194/20,100 mci,batna,1.0,non,nodule,unifocal,2.3 cm,ADP,tt,tirads 5,marié,F,sans,non,non,simples,sœur,zjzuypup,gauche,pt2,non,46.0,non
+classique,195/20,100 mci,alger,1.0,non,goitre,,1.5 cm,EC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,joxbzlgu,droit et gauche,pt1b,non,44.0,non
+vésiculaire,196/20,100 mci,bouira,1.0,oui,gmn,unifocal,5 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sœur,xcjrtzvh,droit,pt3,non,76.0,non
+vésiculaire,197/20,50 mci,bouira,1.0,non,nodule,unifocal,15 mm,EC,tt,tirads 4,mariée,H,sans,non,non,simples,sans,liffaicw,gauche,pt1b,non,57.0,non
+vésiculaire,198/20,100 mci,ain defla,,non,gmn,unifocal,2 cm,TC,tt,tirads 4,mariée,F,sans,oui,non,simples,sans,mihikwgj,isthme,pt1b,non,40.0,non
+classique,199/20,50 mci,alger,,non,nodule,,2.8 cm,EC,tt,tirads 3,mariée,H,sans,non,non,simples,sans,ulivozyj,droit,pt2,non,48.0,non
+classique,200/20,100 mci,médea,2.0,non,nodule,unifocal,1 cm,DF,tt,tirads 4,célibataire,F,central,non,non,simples,sans,vrcxbhbs,gauche,pt1bn1,non,35.0,oui
+vésiculaire,201/20,100 mci,sétif,,non,gmn,,,EC,tt,tirads 6,marié,H,sans,non,oui,simples,sans,nuixicsr,,,non,77.0,oui
+classique,202/20,100 mci,tizi ouzou,1.0,non,gmn,unifocal,6.5 cm,EC,tt,tirads 4,marié,H,sans,non,non,simples,maternel,nkkebtol,droit,pt3a,non,53.0,non
+classique,203/20,100 mci,tizi ouzou,3.0,oui,gmn,multifocal,4 cm,EC,tt,tirads 6,marié,F,sans,oui,non,simples,sœur,lfhskgis,droit et gauche,pt4a,oui,53.0,non
+oncocytaire,204/20,100 mci,alger,1.0,non,nodule,unifocal,52 mm,DF,tt,tirads 5,marié,F,central,non,non,simples,sans,axmrvrck,droit,pt3bn1a,non,49.0,non
+vésiculaire,205/20,100 mci,alger,3.0,non,gmn,multifocal,2 cm,TC,tt,tirads 5,célibataire,H,central,non,non,simples,sans,kcxdeica,droit et gauche,pt2n1bm1,non,46.0,oui
+vésiculaire,206/20,100 mci,annaba,2.0,non,nodule,bifocal,25 mm,TC,tt,tirads 5,célibataire,F,central,non,non,simples,sans,hidjyugc,droit et isthme,pt1a,non,27.0,non
+classique,207/20,100 mci,blida,2.0,non,nodule,,1 cm,DF,tt,tirads 4,mariée,F,sans,non,non,simples,paternel,razmtxuj,droit,pt1an1,non,48.0,oui
+microcarcinome,208/20,100 mci,alger,2.0,non,nodule,bifocal,9 mm,EC,tt,tirads 4,mariée,F,central,non,non,simples,paternel,kwllmzrs,droit et gauche,pt1an1a,non,42.0,oui
+classique,209/20,100 mci,ghardia,2.0,non,goitre,,1 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,mlgfggjd,droit,pt1bn1b,non,28.0,oui
+classique,210/20,100 mci,alger,1.0,non,nodule,unifocal,1.7 cm,DF,tt,tirads 4,mariée,F,récurrentiel,non,non,simples,sans,cwlvpnbx,gauche,pt1bn1,non,59.0,oui
+whartin like,211/20,100 mci,batna,1.0,oui,nodule,,1.5 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,frère,cjuplxeq,gauche,pt1bn1b,non,39.0,oui
+vésiculaire,212/20,100 mci,sétif,2.0,non,gmn,bifocal,0.5 cm,EC,tt,tirads 3,mariée,F,sans,non,oui,simples,paternel,xhbewwon,gauche,pt1a,non,29.0,non
+vésiculaire,213/20,100 mci,alger,3.0,non,gmn,,15 mm,TC,tt,tirads 4,célibataire,F,sans,non,non,simples,sans,vhqfpbbp,droit,pt2,non,42.0,non
+classique,214/20,100 mci,ghardia,2.0,non,nodule,,1.8 cm,TC,tt,tirads 3,célibataire,F,récurrentiel,non,non,simples,sans,tkksabaq,droit,pt1bn1b,non,32.0,oui
+classique,215/20,,msila,2.0,non,nodule,,0.5 cm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,tbdxbbah,isthme,pt1an1,non,48.0,oui
+vésiculaire,215/20,100 mci,djelfa,2.0,oui,nodule,bifocal,2 cm,TC,tt,tirads 5,marié,F,sans,non,non,simples,sans,yslmujlb,droit et gauche,pt2a,non,45.0,non
+vésiculaire,216/20,,djelfa,1.0,non,nodule,,1.5 cm,ADP,tt,tirads 5,marié,F,sans,non,oui,simples,sans,esqlbiip,droit,pt3,non,48.0,non
+classique,217/20,100 mci,msila,1.0,oui,nodule,,4 cm,EC,tt,tirads 5,marié,F,sans,non,non,simples,sans,nahuvxfv,droit,pt1b,non,38.0,non
+classique,218/20,,blida,,,,,5.7 cm,EC,tt,,célibataire,H,sans,,,simples,sans,kuatlbts,,pt3,,31.0,oui
+microcarcinome,219/20,50 mci,sétif,1.0,non,nodule,bifocal,8 mm,EC,tt,tirads 4,mariée,F,sans,non,non,,sans,lrpruoos,droit,pt1a,non,32.0,non
+vésiculaire,220/20,,msila,,non,goitre,,6 cm,EC,tt,tirads 5,mariée,H,sans,non,non,simples,sans,merwurio,droit,pt3a,non,63.0,oui
+classique,221/20,,alger,4.0,non,gmn,multifocal,5 cm,EC,tt,tirads 5,mariée,F,bilatéral,non,non,dysphonie,sans,ooylcift,droit et gauche,pt2n1b,non,33.0,oui
+microcarcinome,222/20,,alger,1.0,non,nodule,,7 mm,EC,tt,tirads 4,célibataire,F,central,non,non,simples,sans,brwhuwrq,droit,pt1an1a,non,33.0,non
+vésiculaire,223/20,,béjaia,2.0,non,nodule,bifocal,13 mm,EC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,qbpptlxd,droit et gauche,pt1b,non,30.0,non
+vésiculaire,224/20,,alger,,non,nodule,multifocal,10 mm,,tt,tirads 4,mariée,F,bilatéral,non,non,simples,sans,rmjkvcuo,gauche,pt1b,non,38.0,non
+classique,225/20,,boumerdas,1.0,non,goitre,bifocal,10 mm,EC,tt,tirads 4,mariée,F,central,non,non,simples,sans,imtcpeqc,gauche,pt1a,non,51.0,non
+classique,226/20,100 mci,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,DF,tt,tirads 4,célibataire,H,central,non,non,simples,sans,spoycdhu,droit,pt1n1,non,32.0,oui
+classique,227/20,100 mci,boumerdas,,non,gmn,multifocal,5 cm,EC,tt,tirads,marié,F,sans,non,non,simples,sans,skpqlrjc,droit et gauche,pt3a,non,46.0,non
+oncocytaire,228/20,100 mci,alger,7.0,oui,gmn,bifocal,0.7 cm,EC,tt,tirads 5,mariée,F,récurrentiel,oui,non,simples,sans,nujpluph,droit et gauche,pt1an1a,non,56.0,oui
+vésiculaire,229/20,100 mci,tizi ouzou,1.0,non,nodule,unifocal,2.5 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,dgwkcyyr,droit,pt2,non,53.0,non
+oncocytaire,230/20,100 mci,tizi ouzou,4.0,non,gmn,multifocal,2 cm,TC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,ruzwwwlj,droit et gauche,pt1b,non,65.0,non
+classique,231/20,100 mci,msila,1.0,non,nodule,unifocal,1.8 cm,EC,tt,tirads 5,mariée,F,sans,non,non,simples,sans,vzeqfnri,droit,pt3b,non,50.0,non
+vésiculaire,232/20,100 mci,bouira,1.0,non,nodule,unifocal,1.7 cm,EC,tt,tirads 5,mariée,F,sans,non,non,simples,maternel,srgsnuvy,gauche,pt3b,oui,48.0,non
+classique,233/20,100 mci,msila,1.0,non,nodule,unifocal,1.3 cm,DF,tt,tirads 5,mariée,F,central,non,non,simples,sans,mqjzwuxj,droit,pt1bn1b,non,58.0,oui
+classique,234/20,100 mci,alger,2.0,non,nodule,multifocal,4.4 cm,TC,tt,tirads 3,mariée,H,récurrentiel,non,non,simples,sans,mpppnzam,droit et gauche,pt3an1,non,59.0,oui
+oncocytaire,235/20,100 mci,tizi ouzou,,non,gmn,unifocal,2.9 cm,EC,tt,tirads 3,mariée,F,sans,non,non,simples,maternel,cxwsxupt,gauche,pt2,non,40.0,non
+classique,236/20,100 mci,bouira,3.0,non,nodule,multifocal,0.6 cm,EC,tt,tirads 5,célibataire,F,central,non,non,simples,sœur,modpdyqq,droit et gauche,pt1an1a,non,57.0,oui
